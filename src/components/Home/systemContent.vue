@@ -1,0 +1,86 @@
+<template>
+  <div class="sysWrapper tableWrapper">
+    <TheTitle title="应用系统"/>
+    <CommTable is-show-index :front-page="false" :border="false" :table-data="sysTable.data" :columns="sysTable.columns" :is-show-pagination="false">
+      <el-table-column slot="strHostState" label="状态" width="50">
+            <template slot-scope="{ row }">
+              {{ row.strHostState === '0' ? '关闭' : '开启' }}
+            </template>
+          </el-table-column>
+    </CommTable>
+  </div>
+</template>
+<script>
+import api from '@/api/index'
+const TheTitle = {
+  props: ['title'],
+  template: `
+    <div class="main-header">
+      <h4>{{title}}</h4>
+    </div>
+  `
+}
+export default {
+  name: 'SystemContent',
+  components: { TheTitle },
+  props: {
+    titleFlag: { type: Boolean, default: true },
+  },
+  data() {
+    return {
+      // 系统表格
+      sysTable: {
+        loading: false,
+        data: [],
+        columns: [
+          {
+            label: '系统标识',
+            prop: 'strSystemCode'
+          },
+          {
+            label: '系统名称',
+            prop: 'strSystemName'
+          },
+          {
+            label: '系统说明',
+            prop: 'strSystemComment'
+          },
+          {
+            slot: 'strHostState'
+          },
+        ]
+      }
+    }
+  },
+  mounted() {
+    this.getSysTableData()
+  },
+  methods: {
+    // 获取应用系统表格数据
+    getSysTableData() {
+      this.sysTable.data = []
+      this.sysTable.loading = true
+      api
+        .monitorSysinfoconsult()
+        .then((res) => {
+          if (res.strResult) {
+            const rs = JSON.parse(res.strResult)
+            this.sysTable.data = rs
+          }
+        })
+        .finally(() => {
+          this.sysTable.loading = false
+        })
+    }
+  }
+}
+</script>
+<style lang="scss" scoped>
+.sysWrapper {
+  .home{
+    background-color: inherit;
+    margin-top: 0 !important;
+    padding: 0;
+  }
+}
+</style>

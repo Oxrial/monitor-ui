@@ -1,0 +1,35 @@
+.editor-main {
+  position: relative;
+  ::v-deep .ace_scroller {
+    .ace_search {
+      color: #888698;
+      &.right {
+        background-color: #39373e;
+        border-radius: unset;
+        border: unset;
+      }
+    }
+    .ace_button {
+      color: #fff;
+      border: 1px gray solid;
+      &:hover {
+        background-color: #56535d;
+      }
+    }
+    .ace_search_field {
+      color: #b2b1b6;
+      background: #3a3a3b;
+      border: 1px #676565 solid;
+      border-radius: unset;
+    }
+    .ace_searchbtn {
+      background-color: #46464a;
+      color: #c8c8cb;
+      border: 1px #676565 solid;
+      border-radius: unset;
+    }
+    .ace_search_form.ace_nomatch {
+      outline: unset;
+    }
+  }
+}

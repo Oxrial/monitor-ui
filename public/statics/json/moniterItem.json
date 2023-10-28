@@ -1,0 +1,234 @@
+{
+    "code": "20000",
+    "strResult": [
+        {
+            "moniter_item": "交易监控",
+            "detail_item": "交易成功率监控",
+            "threshold_item": {
+                "normal": "100",
+                "risk": "95",
+                "danger": "90"
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "交易监控",
+            "detail_item": "交易量环比监控",
+            "threshold_item": {
+                "normal": "0",
+                "risk": "20",
+                "danger": "60"
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "交易监控",
+            "detail_item": "长时间无交易监控",
+            "threshold_item": {
+                "normal": "0",
+                "risk": "5",
+                "danger": "10"
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "交易监控",
+            "detail_item": "交易时常监控",
+            "threshold_item": "",
+            "threshold_item": {
+                "normal": "0",
+                "risk": "100",
+                "danger": "15090"
+            },
+            "ctrl": true
+        },
+        {
+            "moniter_item": "文件监控",
+            "detail_item": "文件存在监控",
+            "threshold_item": {
+                "normal": "1",
+                "risk": "0",
+                "danger": ""
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "文件监控",
+            "detail_item": "文件不存在监控",
+            "threshold_item": {
+                "normal": "1",
+                "risk": "0",
+                "danger": ""
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "日终监控",
+            "detail_item": "没有在指定时间内执行日终任务",
+            "threshold_item": {
+                "normal": "1",
+                "risk": "0",
+                "danger": ""
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "日终监控",
+            "detail_item": "日终任务执行错误",
+            "threshold_item": {
+                "normal": "1",
+                "risk": "",
+                "danger": "0"
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "日终监控",
+            "detail_item": "没有在指定时间内换日",
+            "threshold_item": {
+                "normal": "1",
+                "risk": "",
+                "danger": "0"
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "对账监控",
+            "detail_item": "没有在指定时间内对账",
+            "threshold_item": {
+                "normal": "",
+                "risk": "",
+                "danger": ""
+            },
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "对账监控",
+            "detail_item": "对账任务执行错误",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "端口存活状态监控",
+            "detail_item": "监控节点的端口是否存活，易于判断交易和系统是否正常",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "应用服务数监控",
+            "detail_item": "监控程序定时轮询生产系统的服务个数、服务状态，服务个数小于设定的服务个数则告警，服务个数大于设定的最大服务个数则告警，服务状态异常则告警",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "注册服务队列监控",
+            "detail_item": "定时轮询服务个数、队列状态，服务掉线次数超过阈值则预警告警，队列状态异常则告警",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "Redis服务监控",
+            "detail_item": "监控Redis资源信息，Redis内存占用告警，集群活跃节点数预警，集群活跃节点告警，监控未处理的数据量",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "PostgreSQL服务监控",
+            "detail_item": "监控PostgreSQL资源信息中的最大上限连接数、当前会话数、数据库大小、表锁数、死锁数、长事务，当前会话数预警，表锁数预警，死锁数告警，监控未处理的数据量",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "系统资源监控",
+            "detail_item": "通过监控关键的CPU内存存储资源是否在正常范围，CPU内存存储资源超预警阈值预警，超告警阈值告警",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "MQ情况监控",
+            "detail_item": "消息生产TPS，消息消费TPS，消息堆积数，消息生产总数，消息消费总数指标；消息消费TPS和生产TPS都不为0的情况下，消息生产TPS与消息消费TPS的比值跟阈值比对报风险危险告警；消息消费TPS为0，消息堆积大于0的时候报危险",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "操作系统状态监控",
+            "detail_item": "load监控",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "操作系统状态监控",
+            "detail_item": "uptime监控",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "操作系统状态监控",
+            "detail_item": "网络连接情况监控",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "操作系统状态监控",
+            "detail_item": "网卡发送流量",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "操作系统状态监控",
+            "detail_item": "网卡接收流量",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "JVM监控",
+            "detail_item": "监控java应用JVM，包括heap区大小、堆外大小、heap区使用率、old区使用率、堆外内存使用率、新生代使用率、老年代使用率、perm/meta区使用率、YGC次数、YGC耗时、FukkGC次数、FullGC耗时、GC总耗时",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "Nacos服务监控",
+            "detail_item": "JVM监控指标（Nacos暴露指标，包括JVM内存使用、JVM最大字节，JVM GC字数、JVM GC耗时、JVM线程数）、http请求次数、http请求总耗时、Nacos config配置落盘任务堆积数、Nacos config配置水平通知任务堆积数、Nacos naming推送失败数、Nacos请求响应内部错误异常（读写失败，没权限，参数错误）、Nacos naming leader发送心跳异常、Nacos naming ip个数、Nacos naming角色状态、数据库异常、Nacos config水平通知失败、Nacos config server之间健康检查异常",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "Nginx服务监控",
+            "detail_item": "当前连接数、upstream最大响应时间、upstream平均响应时间、日志错误返回码、用户请求流量、饱和度（CPU资源使用率、Nginx worker绑定CPU时的使用率、当前正在处理的活跃连接数、正在读取的客户端连接数、响应数据到客户端的数量、Nginx等待下次请求的驻留连接数）",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        },
+        {
+            "moniter_item": "Tomcat服务监控",
+            "detail_item": "Tomcat版本、JDK版本、运行状态、JVM监控指标（参见2.5.3.1 JVM监控）、Tomcat请求量/秒、Tomcat一分钟新增会话数、错误数、线程总数、线程池使用率、TCP连接数",
+            "threshold_item": "",
+            "risk_rating": "",
+            "ctrl": true
+        }
+    ]
+}

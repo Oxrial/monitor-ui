@@ -1,0 +1,7 @@
+.table-dialog {
+  ::v-deep .el-dialog {
+    .el-dialog__body {
+      padding-top: unset;
+    }
+  }
+}

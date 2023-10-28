@@ -1,0 +1,117 @@
+$White0: #ffffff;
+
+$Black0: #000000;
+$Black1: #303133;
+$Black2: #10132d;
+
+$Blue0: #1b4773; // $globalBlue: #1b4773;
+$Blue1: #5a84f7;
+$Blue2: #3a9cfd;
+$Blue4: #409eff;
+$Blue5: #009fd8;
+$Blue6: #4a5267;
+$Blue7: #6d84c2;
+
+$Green0: #216342; // $globalGreen: #216342;
+$Green1: #2ccf6d;
+$Green2: #67c23a;
+$Green3: #70ff2a;
+
+$Yellow1: #d0d037;
+$Yellow2: #e6a23c;
+$Yellow4: #e5d926;
+$Yellow5: #fde848;
+$Yellow6: #e5ce21;
+$Yellow7: #bfa52b;
+
+$Gray0: #f5f6fa; // $globalGray: #f5f6fa;
+$Gray1: #c4d1e8;
+$Gray2: #e9edf3;
+$Gray3: #d1daeb;
+$Gray4: #8a9287;
+$Gray5: #dddddd;
+$Gray6: #545252;
+$Gray7: #b6b6b6;
+$Gray8: #7a8277;
+
+$Red1: #f56c6c;
+$Red2: #ff5959;
+$Red3: #eb642d;
+$Red4: #ea7b7b;
+
+// $bGreen1: #67c23a44;    $Green2+44
+// $bBlue1: #009fd8;         $Blue5
+// $bxsblue1: #009fd866;     $Blue5+66
+// $bYellow1: #fde848;       $Yellow5
+
+:export {
+  White0: $White0;
+
+  Black0: $Black0;
+  Black1: $Black1;
+  Black2: $Black2;
+
+  Blue0: $Blue0;
+  Blue1: $Blue1;
+  Blue2: $Blue2;
+  Blue4: $Blue4;
+  Blue5: $Blue5;
+
+  Green0: $Green0;
+  Green1: $Green1;
+  Green2: $Green2;
+  Green3: $Green3;
+
+  Yellow1: $Yellow1;
+  Yellow2: $Yellow2;
+  Yellow4: $Yellow4;
+  Yellow5: $Yellow5;
+  Yellow6: $Yellow6;
+  Yellow7: $Yellow7;
+
+  Gray0: $Gray0;
+  Gray1: $Gray1;
+  Gray2: $Gray2;
+  Gray3: $Gray3;
+  Gray4: $Gray4;
+  Gray5: $Gray5;
+  Gray6: $Gray6;
+  Gray7: $Gray7;
+  Gray8: $Gray8;
+
+  Red1: $Red1;
+  Red2: $Red2;
+  Red3: $Red3;
+  Red4: $Red4;
+}
+
+.mose-normal {
+  color: $Green2 !important;
+}
+.mose-warning {
+  color: $Yellow2 !important;
+}
+.mose-danger {
+  color: $Red1 !important;
+}
+.not-card {
+  background-color: $White0;
+  padding: 10px;
+  height: 100%;
+  border-radius: 4px;
+}
+
+@mixin borders($color, $width: 1) {
+  border: $width + px $color solid;
+}
+@mixin bordersi($color, $width: 1) {
+  border: $width + px $color solid !important;
+}
+
+@mixin fontfamily-m($fontstr) {
+  font-family: $fontstr, monospace;
+}
+
+@mixin fontfamily-s($fontstr) {
+  font-family: $fontstr, sans-serif;
+}

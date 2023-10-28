@@ -1,0 +1,42 @@
+.search-form {
+  padding: 20px 0 2px 20px;
+  //background: rgb(4, 23, 75);
+  ::v-deep .el-input__inner {
+    width: 250px;
+  }
+  ::v-deep .el-textarea {
+    width: 250px;
+    min-width: unset;
+  }
+  ::v-deep .el-date-editor.el-input,
+  ::v-deep .el-date-editor.el-input__inner {
+    width: 250px;
+  }
+}
+.update-form {
+  padding: 20px 0 2px 20px;
+  background: #fff;
+  .el-form {
+    margin: 0 auto;
+    width: 83%;
+    display: flex;
+    flex-wrap: wrap;
+    .el-form-item {
+      &.full {
+        width: calc(100% / 2 - 12px);
+        ::v-deep .el-form-item__content {
+          width: calc(100% - 120px);
+          & > * {
+            width: 100%;
+          }
+        }
+      }
+      &.inline {
+        width: 100%;
+        &.right {
+          text-align: right;
+        }
+      }
+    }
+  }
+}

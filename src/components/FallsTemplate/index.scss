@@ -1,0 +1,15 @@
+.falls-item-area {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  flex-direction: row;
+  padding: unset;
+  .falls-item {
+    box-shadow: 0 2px 12px 0 rgb(0 0 0 / 10%);
+    width: calc(100% / 2 -12px);
+    min-height: 300px;
+    margin: 0 10px 10px 0;
+    border: 1px $Gray7 solid;
+    border-radius: 5px;
+  }
+}

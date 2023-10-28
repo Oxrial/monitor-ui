@@ -1,0 +1,2333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 test1.svg 页-5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="34.5009in" height="22.4936in"
+		viewBox="0 0 2484.06 1619.54" xml:space="preserve" color-interpolation-filters="sRGB" class="st23">
+	<v:documentProperties v:langID="2052">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisAecDocument" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisAecVersion" v:val="VT0(15):26"/>
+			<v:ud v:nameU="Ifc__CustomPropsLevel" v:val="VT0(0):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#5b9bd5;stroke:none;stroke-width:1}
+		.st2 {fill:#5b9bd5;stroke:none;stroke-width:0.25;visibility:hidden}
+		.st3 {fill:none}
+		.st4 {stroke:#c7c8c8;stroke-width:0.25}
+		.st5 {marker-end:url(#mrkr13-68);marker-start:url(#mrkr13-66);stroke:#4a80b0;stroke-linecap:butt;stroke-width:1.25}
+		.st6 {fill:#4a80b0;fill-opacity:1;stroke:#4a80b0;stroke-opacity:1;stroke-width:0.46468389199409}
+		.st7 {fill:#7caada;stroke:none;stroke-width:1}
+		.st8 {stroke:#4a80b0;stroke-linecap:butt;stroke-width:1.25}
+		.st9 {fill:none;stroke:#4a80b0;stroke-linecap:butt;stroke-width:1.25}
+		.st10 {marker-start:url(#mrkr13-66);stroke:#4a80b0;stroke-linecap:butt;stroke-width:1.25}
+		.st11 {fill:#7ca9da;stroke:#4a80b0;stroke-linecap:butt;stroke-width:1.25}
+		.st12 {fill:#4a80b0;font-family:Calibri;font-size:1.00001em}
+		.st13 {fill:#7ca9da;stroke:none;stroke-width:1}
+		.st14 {fill:#ffffff;stroke:#ffffff;stroke-width:0.25}
+		.st15 {fill:#ffffff;stroke:none;stroke-width:1}
+		.st16 {stroke:#41719c;stroke-width:0.75}
+		.st17 {stroke:#c8c8c8;stroke-width:0.25}
+		.st18 {fill:#ffffff;stroke:#41719c;stroke-width:0.75}
+		.st19 {fill:#ffffff;stroke:#41719c;stroke-width:0.75;visibility:hidden}
+		.st20 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st21 {fill:#5b9bd5;font-family:黑体;font-size:3.33334em}
+		.st22 {fill:#5b9bd5;font-family:黑体;font-size:3em}
+		.st23 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-66" class="st6" v:arrowType="13" v:arrowSize="0" v:setback="0" refX="0" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(2.1520005690508) "/>
+		</marker>
+		<marker id="mrkr13-68" class="st6" v:arrowType="13" v:arrowSize="0" v:setback="0" refX="-0" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.1520005690508,-2.1520005690508) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:custProps>
+			<v:cp v:nameU="VisDoorFrameWidth" v:lbl="门框宽度" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorFrameDepth" v:lbl="门框深度" v:type="4" v:format="墙框;100 mm;150 mm;200 mm;250 mm;300 mm" v:sortKey=""
+					v:invis="true" v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorStopWidth" v:lbl="门挡宽度" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(20 mm)"/>
+			<v:cp v:nameU="VisDoorStopDepth" v:lbl="门挡深度" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresDepthIn" v:lbl="门槛内宽度" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresWidthIn" v:lbl="门槛内深度" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresDepthOut" v:lbl="门槛外深度" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorThresWidthOut" v:lbl="门槛外宽度" v:type="4"
+					v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+			<v:cp v:nameU="VisDoorPanelThickness" v:lbl="门板厚度" v:type="4"
+					v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:sortKey="" v:invis="true"
+					v:langID="2052" v:cal="0" v:val="VT4(50 mm)"/>
+		</v:custProps>
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisAecPage" v:val="VT0(1):26"/>
+			<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorPanelsClosed" v:prompt="Show all doors closed" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowHeader" v:prompt="Show all door headers" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowPanel" v:prompt="Show all door panels" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowSwing" v:prompt="Show all door swings" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowThreshold" v:prompt="Show all door thresholds" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowThresIn" v:prompt="Show all door interior thresholds" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowThresOut" v:prompt="Show all door exterior thresholds" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorFrameToWall" v:prompt="Draw door frame depths same as wall thickness" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorSwingAs" v:prompt="Draw all door swings as: 0 = arc, 1 = line" v:val="VT0(0):26"/>
+			<v:ud v:nameU="VisDoorShowFrame" v:prompt="Show all door frames" v:val="VT0(1):26"/>
+			<v:ud v:nameU="VisDoorShowStop" v:prompt="Show all door stops" v:val="VT0(1):26"/>
+			<v:ud v:nameU="LPrec" v:val="VT0(0):26"/>
+			<v:ud v:nameU="LUnits" v:val="VT0(0):26"/>
+			<v:ud v:nameU="ShowUnits" v:val="VT0(1):26"/>
+			<v:ud v:nameU="LInchPrec" v:val="VT0(4):26"/>
+			<v:ud v:nameU="VisDoorShowTag" v:prompt="Show all door tags" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-5</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="容器" v:index="0"/>
+		<g id="group1-1" transform="translate(-78.7269,-16.8553)" v:mID="1" v:groupContext="group">
+			<title>工作表.139</title>
+			<g id="group2-2" transform="translate(96.4316,-1576.14)" v:mID="2" v:groupContext="group" v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="墙壁厚度" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm"
+							v:sortKey="visWall02" v:invis="false" v:langID="2052" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="参考线偏移" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="2052" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="2052"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="墙高" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m" v:sortKey="visWall03"
+							v:invis="false" v:langID="2052" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="墙壁对齐方式" v:type="1" v:format="居中;边缘;自定义" v:sortKey="visWall04"
+							v:invis="false" v:langID="2052" v:val="VT4(边缘)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="墙段" v:type="1" v:format="曲线形;直线形" v:sortKey="visWall05" v:invis="false"
+							v:langID="2052" v:val="VT4(直线形)"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(墙壁)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visWall15" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visWall09" v:invis="false" v:langID="2052"
+							v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="A1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="墙壁" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>墙壁</title>
+				<g id="shape3-3" v:mID="3" v:groupContext="shape" v:layerMember="0;1" transform="translate(0.298307,-0.306339)">
+					<title>工作表.2</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M0 1615.29 L2443.65 1615.29 L2439.4 1619.54 L4.25 1619.54 L0 1615.29 Z" class="st1"/>
+				</g>
+				<g id="shape4-5" v:mID="4" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1140.63,2764.43) rotate(-135)">
+					<title>工作表.3</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="shape5-7" v:mID="5" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(3589.14,2760.17) rotate(135)">
+					<title>工作表.4</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="group7-9" transform="translate(0.298307,-0.306339)" v:mID="7" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<title>工作表.6</title>
+					<g id="shape8-10" v:mID="8" v:groupContext="shape" v:layerMember="0;1" transform="translate(3.06954E-12,-4.25)">
+						<title>工作表.8</title>
+						<path d="M0 1619.54 L2443.65 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L2443.65 1619.54" class="st4"/>
+					</g>
+					<g id="shape9-13" v:mID="9" v:groupContext="shape" v:layerMember="0;1" transform="translate(4.25,0)">
+						<title>工作表.9</title>
+						<path d="M0 1619.54 L2435.15 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L2435.15 1619.54" class="st4"/>
+					</g>
+				</g>
+			</g>
+			<g id="group11-16" transform="translate(1716.27,38.5374) rotate(90)" v:mID="11" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="墙壁厚度" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm"
+							v:sortKey="visWall02" v:invis="false" v:langID="2052" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="参考线偏移" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="2052" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="2052"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="墙高" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m" v:sortKey="visWall03"
+							v:invis="false" v:langID="2052" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="墙壁对齐方式" v:type="1" v:format="居中;边缘;自定义" v:sortKey="visWall04"
+							v:invis="false" v:langID="2052" v:val="VT4(边缘)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="墙段" v:type="1" v:format="曲线形;直线形" v:sortKey="visWall05" v:invis="false"
+							v:langID="2052" v:val="VT4(直线形)"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(墙壁)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visWall15" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visWall09" v:invis="false" v:langID="2052"
+							v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="A1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="墙壁" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>墙壁.36</title>
+				<g id="shape12-17" v:mID="12" v:groupContext="shape" v:layerMember="0;1" transform="translate(0.306339,0)">
+					<title>工作表.9</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M4.25 1615.29 L1575.3 1615.29 L1579.55 1619.54 L0 1619.54 L4.25 1615.29 Z" class="st1"/>
+				</g>
+				<g id="shape13-19" v:mID="13" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1144.89,474.348) rotate(-45)">
+					<title>工作表.10</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="shape14-21" v:mID="14" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(2720.8,470.096) rotate(45)">
+					<title>工作表.11</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="group16-23" transform="translate(0.306339,0)" v:mID="16" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<title>工作表.13</title>
+					<g id="shape17-24" v:mID="17" v:groupContext="shape" v:layerMember="0;1" transform="translate(4.25,-4.25)">
+						<title>工作表.17</title>
+						<path d="M0 1619.54 L1571.05 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L1571.05 1619.54" class="st4"/>
+					</g>
+					<g id="shape18-27" v:mID="18" v:groupContext="shape" v:layerMember="0;1">
+						<title>工作表.18</title>
+						<path d="M0 1619.54 L1579.55 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L1579.55 1619.54" class="st4"/>
+					</g>
+				</g>
+			</g>
+			<g id="group20-30" transform="translate(96.4236,-1.1447)" v:mID="20" v:groupContext="group" v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="墙壁厚度" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm"
+							v:sortKey="visWall02" v:invis="false" v:langID="2052" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="参考线偏移" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="2052" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="2052"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="墙高" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m" v:sortKey="visWall03"
+							v:invis="false" v:langID="2052" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="墙壁对齐方式" v:type="1" v:format="居中;边缘;自定义" v:sortKey="visWall04"
+							v:invis="false" v:langID="2052" v:val="VT4(边缘)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="墙段" v:type="1" v:format="曲线形;直线形" v:sortKey="visWall05" v:invis="false"
+							v:langID="2052" v:val="VT4(直线形)"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(墙壁)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visWall15" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visWall09" v:invis="false" v:langID="2052"
+							v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="A1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="墙壁" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>墙壁.43</title>
+				<g id="shape21-31" v:mID="21" v:groupContext="shape" v:layerMember="0;1" transform="translate(0.306339,0)">
+					<title>工作表.16</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M4.25 1615.29 L2439.4 1615.29 L2443.65 1619.54 L0 1619.54 L4.25 1615.29 Z" class="st1"/>
+				</g>
+				<g id="shape22-33" v:mID="22" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1144.89,474.348) rotate(-45)">
+					<title>工作表.17</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="shape23-35" v:mID="23" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(3584.89,470.096) rotate(45)">
+					<title>工作表.18</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="group25-37" transform="translate(0.306339,0)" v:mID="25" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<title>工作表.20</title>
+					<g id="shape26-38" v:mID="26" v:groupContext="shape" v:layerMember="0;1" transform="translate(4.25,-4.25)">
+						<title>工作表.26</title>
+						<path d="M0 1619.54 L2435.15 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L2435.15 1619.54" class="st4"/>
+					</g>
+					<g id="shape27-41" v:mID="27" v:groupContext="shape" v:layerMember="0;1">
+						<title>工作表.27</title>
+						<path d="M0 1619.54 L2443.65 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L2443.65 1619.54" class="st4"/>
+					</g>
+				</g>
+			</g>
+			<g id="group29-44" transform="translate(4155.36,38.5355) rotate(90)" v:mID="29" v:groupContext="group"
+					v:layerMember="0;1">
+				<v:custProps>
+					<v:cp v:nameU="T" v:lbl="墙壁厚度" v:type="4" v:format="50 mm;100 mm;150 mm;200 mm;250 mm;300 mm"
+							v:sortKey="visWall02" v:invis="false" v:langID="2052" v:val="VT0(5.9055118110236):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="参考线偏移" v:type="4"
+							v:format="-150 mm;-125 mm;-100 mm;-75 mm;-50 mm;-25 mm;0 mm;25 mm;50 mm;75 mm;100 mm;125 mm;150 mm"
+							v:sortKey="visWall07" v:invis="true" v:langID="2052" v:val="VT0(0):24"/>
+					<v:cp v:nameU="Material" v:type="0" v:invis="true" v:langID="2052"/>
+					<v:cp v:nameU="VisWallHeight" v:lbl="墙高" v:type="4"
+							v:format="2 m;2.1 m;2.2 m;2.3 m;2.4 m;2.5 m;2.6 m;2.7 m;2.8 m;2.9 m;3 m" v:sortKey="visWall03"
+							v:invis="false" v:langID="2052" v:val="VT0(102.36220472441):21"/>
+					<v:cp v:nameU="VisWallLength" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="visWallJustify" v:lbl="墙壁对齐方式" v:type="1" v:format="居中;边缘;自定义" v:sortKey="visWall04"
+							v:invis="false" v:langID="2052" v:val="VT4(边缘)"/>
+					<v:cp v:nameU="visWallSegment" v:lbl="墙段" v:type="1" v:format="曲线形;直线形" v:sortKey="visWall05" v:invis="false"
+							v:langID="2052" v:val="VT4(直线形)"/>
+					<v:cp v:nameU="Radius" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(墙壁)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4()"/>
+					<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:sortKey="visWall15" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visWall09" v:invis="false" v:langID="2052"
+							v:val="VT0(0):24"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="LX1"/>
+					<v:ud v:nameU="LY1"/>
+					<v:ud v:nameU="RX1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="A1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl1" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="1" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp1"/>
+					<v:ud v:nameU="AngTooBlunt1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine1" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls1" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose1" v:val="VT0(0):26"/>
+					<v:ud v:nameU="11" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed1" v:val="VT0(0):5"/>
+					<v:ud v:nameU="_" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="LX2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LY2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RX2"/>
+					<v:ud v:nameU="RY2"/>
+					<v:ud v:nameU="A2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="T2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Mtrl2" v:prompt="0=Unknown, 1=Wall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="JointType2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="2" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="RelA2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndsDontMeet2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShapeGone2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AngTooSharp2"/>
+					<v:ud v:nameU="AngTooBlunt2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="EndNotOnLine2" v:prompt="Within distance User.Fuzz of being on line." v:val="VT0(0):5"/>
+					<v:ud v:nameU="DiffMtrls2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerClose2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TClose2" v:val="VT0(0):26"/>
+					<v:ud v:nameU="22" v:prompt="---------------------------------" v:val="VT4(---------------------------------)"/>
+					<v:ud v:nameU="Closed2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="Corner2" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TJointOpen2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TJointClosed2" v:val="VT0(0):5"/>
+					<v:ud v:nameU="__" v:prompt="=================" v:val="VT4(=================)"/>
+					<v:ud v:nameU="Fuzz" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="LineStyleIndex" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallShape" v:prompt="Shape Identifier"/>
+					<v:ud v:nameU="OverLayT" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(2):26"/>
+					<v:ud v:nameU="3D_offset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="3D_extrude_length" v:val="VT0(102.36220472441):21"/>
+					<v:ud v:nameU="Is_arc" v:val="VT0(0):5"/>
+					<v:ud v:nameU="2D_length_check" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visWallPriority" v:val="VT0(50):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Wall" v:val="VT0(101):26"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupBegin" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CleanupEnd" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWidth" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveSwitch" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ControlsY1" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="墙壁" v:val="VT0(44):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="CurveLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>墙壁.50</title>
+				<g id="shape30-45" v:mID="30" v:groupContext="shape" v:layerMember="0;1" transform="translate(0.308307,-0.306339)">
+					<title>工作表.23</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallFill" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<path d="M0 1615.29 L1579.55 1615.29 L1575.3 1619.54 L4.25 1619.54 L0 1615.29 Z" class="st1"/>
+				</g>
+				<g id="shape31-47" v:mID="31" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(-1140.63,2764.43) rotate(-135)">
+					<title>工作表.24</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="shape32-49" v:mID="32" v:groupContext="shape" v:layerMember="0;1"
+						transform="translate(2725.05,2760.17) rotate(135)">
+					<title>工作表.25</title>
+					<v:userDefs>
+						<v:ud v:nameU="WallCap" v:prompt="Shape Identifier"/>
+					</v:userDefs>
+					<rect x="0" y="1619.11" width="6.01319" height="0.425197" class="st2"/>
+				</g>
+				<g id="group34-51" transform="translate(0.308307,-0.306339)" v:mID="34" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="WallCompGeom1" v:prompt="Shape Identifier" v:val="VT0(-0.66693806165226):26"/>
+					</v:userDefs>
+					<title>工作表.27</title>
+					<g id="shape35-52" v:mID="35" v:groupContext="shape" v:layerMember="0;1"
+							transform="translate(-3.58114E-12,-4.25)">
+						<title>工作表.35</title>
+						<path d="M0 1619.54 L1579.55 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L1579.55 1619.54" class="st4"/>
+					</g>
+					<g id="shape36-55" v:mID="36" v:groupContext="shape" v:layerMember="0;1" transform="translate(4.25,0)">
+						<title>工作表.36</title>
+						<path d="M0 1619.54 L1571.05 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L1571.05 1619.54" class="st4"/>
+					</g>
+				</g>
+			</g>
+			<g id="group38-58" transform="translate(534.288,-0.7722)" v:mID="38" v:groupContext="group" v:layerMember="3;4">
+				<v:custProps>
+					<v:cp v:nameU="DuctWidth" v:lbl="颈部直径" v:type="2" v:sortKey="visHvac04" v:invis="false" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="DuctDepth" v:lbl="颈部深度" v:type="2" v:sortKey="visHvac05" v:invis="true" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="Flow" v:lbl="流量" v:type="0" v:sortKey="visHvac08" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(流道终端)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(空气终端)"/>
+					<v:cp v:nameU="AirFlowType" v:lbl="空气流通类型" v:type="1" v:format="回风;送风" v:sortKey="visHvac07" v:invis="false"
+							v:langID="2052" v:val="VT4(送风)"/>
+					<v:cp v:nameU="DuctShape" v:lbl="颈部形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac06" v:invis="false"
+							v:langID="2052" v:val="VT4(环形)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visHvac09" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="DiffuserWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserShape" v:lbl="扩散器形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac03" v:invis="false"
+							v:langID="2052" v:val="VT4(矩形)"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="TB2Text" v:val="VT4(0.3M. Ø)"/>
+					<v:ud v:nameU="HideTB2Text" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TB2HasText" v:val="VT0(1):5"/>
+					<v:ud v:nameU="HiddenLine" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ArrowShapeSize" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="DuctShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道终端" v:val="VT0(20):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气终端" v:val="VT0(3):26"/>
+					<v:ud v:nameU="DiffuserShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AirFlowType" v:prompt="0 = Return; 1 = Supply" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ShowFlowArrows" v:prompt="0 = Off; 1 = On" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>送风扩散器</title>
+				<g id="group39-59" v:mID="39" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ArrowSize" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.47</title>
+					<g id="shape40-60" v:mID="40" v:groupContext="shape" v:layerMember="3;4"
+							transform="translate(87.14,-2.27374E-13)">
+						<title>工作表.40</title>
+						<path d="M0 1540.03 L0 1547.74 L0 1548.1 L0 1611.47 L0 1619.54" class="st5"/>
+					</g>
+					<g id="shape41-69" v:mID="41" v:groupContext="shape" v:layerMember="3;4"
+							transform="translate(-4.95604E-13,-39.76)">
+						<title>工作表.41</title>
+						<path d="M174.28 1619.54 L166.57 1619.54 L166.21 1619.54 L8.07 1619.54 L0 1619.54" class="st5"/>
+					</g>
+				</g>
+				<g id="group42-76" transform="translate(13.5,-13.5)" v:mID="42" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShapeMultipler" v:val="VT0(1):26"/>
+					</v:userDefs>
+					<title>工作表.49</title>
+					<g id="shape43-77" v:mID="43" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.43</title>
+						<path d="M0 1619.54 L147.28 1619.54 L147.28 1567.03 L0 1567.03 L0 1619.54 Z" class="st7"/>
+					</g>
+					<g id="shape44-79" v:mID="44" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.44</title>
+						<path d="M147.28 1567.03 L0 1619.54 L147.28 1567.03 Z" class="st3"/>
+						<path d="M147.28 1567.03 L0 1619.54" class="st8"/>
+					</g>
+					<g id="shape45-82" v:mID="45" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.45</title>
+						<path d="M0 1567.03 L147.28 1619.54 L0 1567.03 Z" class="st3"/>
+						<path d="M0 1567.03 L147.28 1619.54" class="st8"/>
+					</g>
+					<g id="shape46-85" v:mID="46" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.46</title>
+						<rect x="0" y="1567.03" width="147.28" height="52.51" class="st9"/>
+					</g>
+				</g>
+			</g>
+			<g id="group47-87" transform="translate(569.448,-1507.6)" v:mID="47" v:groupContext="group" v:layerMember="3;4">
+				<v:custProps>
+					<v:cp v:nameU="DuctWidth" v:lbl="颈部直径" v:type="2" v:sortKey="visHvac04" v:invis="false" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="DuctDepth" v:lbl="颈部深度" v:type="2" v:sortKey="visHvac05" v:invis="true" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="Flow" v:lbl="流量" v:type="0" v:sortKey="visHvac08" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(流道终端)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(空气终端)"/>
+					<v:cp v:nameU="AirFlowType" v:lbl="空气流通类型" v:type="1" v:format="回风;送风" v:sortKey="visHvac07" v:invis="false"
+							v:langID="2052" v:val="VT4(回风)"/>
+					<v:cp v:nameU="DuctShape" v:lbl="颈部形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac06" v:invis="false"
+							v:langID="2052" v:val="VT4(环形)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visHvac09" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="DiffuserWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserShape" v:lbl="扩散器形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac03" v:invis="false"
+							v:langID="2052" v:val="VT4(矩形)"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="TB2Text" v:val="VT4(0.3M. Ø)"/>
+					<v:ud v:nameU="HideTB2Text" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TB2HasText" v:val="VT0(1):5"/>
+					<v:ud v:nameU="HiddenLine" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ArrowShapeSize" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="DuctShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道终端" v:val="VT0(20):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气终端" v:val="VT0(3):26"/>
+					<v:ud v:nameU="DiffuserShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AirFlowType" v:prompt="0 = Return; 1 = Supply" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShowFlowArrows" v:prompt="0 = Off; 1 = On" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>回风扩散器</title>
+				<g id="shape48-88" v:mID="48" v:groupContext="shape" v:layerMember="3;4" transform="translate(59.12,4.54747E-13)">
+					<title>工作表.51</title>
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ArrowSize" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<path d="M14.52 1606.04 L14.52 1612.79 L29.05 1613.67 L0 1616.16 L14.52 1616.84 L14.52 1619.54" class="st10"/>
+				</g>
+				<g id="group49-93" transform="translate(0,-13.5)" v:mID="49" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShapeMultipler" v:val="VT0(1):26"/>
+					</v:userDefs>
+					<title>工作表.53</title>
+					<g id="shape50-94" v:mID="50" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.50</title>
+						<path d="M0 1619.54 L147.28 1619.54 L147.28 1567.03 L0 1567.03 L0 1619.54 Z" class="st7"/>
+					</g>
+					<g id="shape51-96" v:mID="51" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.51</title>
+						<path d="M147.28 1567.03 L0 1619.54 L147.28 1567.03 Z" class="st3"/>
+						<path d="M147.28 1567.03 L0 1619.54" class="st8"/>
+					</g>
+					<g id="shape52-99" v:mID="52" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.52</title>
+						<rect x="0" y="1567.03" width="147.28" height="52.51" class="st9"/>
+					</g>
+				</g>
+			</g>
+			<g id="group53-101" transform="translate(1786.21,-1507.6)" v:mID="53" v:groupContext="group" v:layerMember="3;4">
+				<v:custProps>
+					<v:cp v:nameU="DuctWidth" v:lbl="颈部直径" v:type="2" v:sortKey="visHvac04" v:invis="false" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="DuctDepth" v:lbl="颈部深度" v:type="2" v:sortKey="visHvac05" v:invis="true" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="Flow" v:lbl="流量" v:type="0" v:sortKey="visHvac08" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(流道终端)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(空气终端)"/>
+					<v:cp v:nameU="AirFlowType" v:lbl="空气流通类型" v:type="1" v:format="回风;送风" v:sortKey="visHvac07" v:invis="false"
+							v:langID="2052" v:val="VT4(送风)"/>
+					<v:cp v:nameU="DuctShape" v:lbl="颈部形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac06" v:invis="false"
+							v:langID="2052" v:val="VT4(环形)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visHvac09" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="DiffuserWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserShape" v:lbl="扩散器形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac03" v:invis="false"
+							v:langID="2052" v:val="VT4(矩形)"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="TB2Text" v:val="VT4(0.3M. Ø)"/>
+					<v:ud v:nameU="HideTB2Text" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TB2HasText" v:val="VT0(1):5"/>
+					<v:ud v:nameU="HiddenLine" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ArrowShapeSize" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="DuctShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道终端" v:val="VT0(20):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气终端" v:val="VT0(3):26"/>
+					<v:ud v:nameU="DiffuserShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AirFlowType" v:prompt="0 = Return; 1 = Supply" v:val="VT0(1):26"/>
+					<v:ud v:nameU="ShowFlowArrows" v:prompt="0 = Off; 1 = On" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>送风扩散器.121</title>
+				<g id="group54-102" v:mID="54" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ArrowSize" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.55</title>
+					<g id="shape55-103" v:mID="55" v:groupContext="shape" v:layerMember="3;4"
+							transform="translate(87.14,-2.27374E-13)">
+						<title>工作表.55</title>
+						<path d="M0 1540.03 L0 1547.74 L0 1548.1 L0 1611.47 L0 1619.54" class="st5"/>
+					</g>
+					<g id="shape56-110" v:mID="56" v:groupContext="shape" v:layerMember="3;4"
+							transform="translate(-4.95604E-13,-39.76)">
+						<title>工作表.56</title>
+						<path d="M174.28 1619.54 L166.57 1619.54 L166.21 1619.54 L8.07 1619.54 L0 1619.54" class="st5"/>
+					</g>
+				</g>
+				<g id="group57-117" transform="translate(13.5,-13.5)" v:mID="57" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShapeMultipler" v:val="VT0(1):26"/>
+					</v:userDefs>
+					<title>工作表.57</title>
+					<g id="shape58-118" v:mID="58" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.58</title>
+						<path d="M0 1619.54 L147.28 1619.54 L147.28 1567.03 L0 1567.03 L0 1619.54 Z" class="st7"/>
+					</g>
+					<g id="shape59-120" v:mID="59" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.59</title>
+						<path d="M147.28 1567.03 L0 1619.54 L147.28 1567.03 Z" class="st3"/>
+						<path d="M147.28 1567.03 L0 1619.54" class="st8"/>
+					</g>
+					<g id="shape60-123" v:mID="60" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.60</title>
+						<path d="M0 1567.03 L147.28 1619.54 L0 1567.03 Z" class="st3"/>
+						<path d="M0 1567.03 L147.28 1619.54" class="st8"/>
+					</g>
+					<g id="shape61-126" v:mID="61" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.61</title>
+						<rect x="0" y="1567.03" width="147.28" height="52.51" class="st9"/>
+					</g>
+				</g>
+			</g>
+			<g id="group62-128" transform="translate(1818.12,4.54747E-13)" v:mID="62" v:groupContext="group" v:layerMember="3;4">
+				<v:custProps>
+					<v:cp v:nameU="DuctWidth" v:lbl="颈部直径" v:type="2" v:sortKey="visHvac04" v:invis="false" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="DuctDepth" v:lbl="颈部深度" v:type="2" v:sortKey="visHvac05" v:invis="true" v:langID="2052"
+							v:val="VT0(11.811023622047):21"/>
+					<v:cp v:nameU="Flow" v:lbl="流量" v:type="0" v:sortKey="visHvac08" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(流道终端)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(空气终端)"/>
+					<v:cp v:nameU="AirFlowType" v:lbl="空气流通类型" v:type="1" v:format="回风;送风" v:sortKey="visHvac07" v:invis="false"
+							v:langID="2052" v:val="VT4(回风)"/>
+					<v:cp v:nameU="DuctShape" v:lbl="颈部形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac06" v:invis="false"
+							v:langID="2052" v:val="VT4(环形)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:sortKey="visHvac09" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="DiffuserWidth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserDepth" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="DiffuserShape" v:lbl="扩散器形状" v:type="1" v:format="矩形;环形" v:sortKey="visHvac03" v:invis="false"
+							v:langID="2052" v:val="VT4(矩形)"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="TB2Text" v:val="VT4(0.3M. Ø)"/>
+					<v:ud v:nameU="HideTB2Text" v:val="VT0(1):5"/>
+					<v:ud v:nameU="TB2HasText" v:val="VT0(1):5"/>
+					<v:ud v:nameU="HiddenLine" v:val="VT0(0):5"/>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ArrowShapeSize" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="DuctShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道终端" v:val="VT0(20):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气终端" v:val="VT0(3):26"/>
+					<v:ud v:nameU="DiffuserShape" v:prompt="0 = Rectangular, 1 = Round" v:val="VT0(0):26"/>
+					<v:ud v:nameU="AirFlowType" v:prompt="0 = Return; 1 = Supply" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ShowFlowArrows" v:prompt="0 = Off; 1 = On" v:val="VT0(1):5"/>
+				</v:userDefs>
+				<title>回风扩散器.125</title>
+				<g id="shape63-129" v:mID="63" v:groupContext="shape" v:layerMember="3;4" transform="translate(59.12,4.54747E-13)">
+					<title>工作表.59</title>
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ArrowSize" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<path d="M14.52 1606.04 L14.52 1612.79 L29.05 1613.67 L0 1616.16 L14.52 1616.84 L14.52 1619.54" class="st10"/>
+				</g>
+				<g id="group64-134" transform="translate(0,-13.5)" v:mID="64" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="LineStyle" v:val="VT0(1):26"/>
+						<v:ud v:nameU="ShapeMultipler" v:val="VT0(1):26"/>
+					</v:userDefs>
+					<title>工作表.61</title>
+					<g id="shape65-135" v:mID="65" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.65</title>
+						<path d="M0 1619.54 L147.28 1619.54 L147.28 1567.03 L0 1567.03 L0 1619.54 Z" class="st7"/>
+					</g>
+					<g id="shape66-137" v:mID="66" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.66</title>
+						<path d="M147.28 1567.03 L0 1619.54 L147.28 1567.03 Z" class="st3"/>
+						<path d="M147.28 1567.03 L0 1619.54" class="st8"/>
+					</g>
+					<g id="shape67-140" v:mID="67" v:groupContext="shape" v:layerMember="3;4">
+						<title>工作表.67</title>
+						<rect x="0" y="1567.03" width="147.28" height="52.51" class="st9"/>
+					</g>
+				</g>
+			</g>
+			<g id="group68-142" transform="translate(2444.07,-1226.38)" v:mID="68" v:groupContext="group" v:layerMember="3;5">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(流道设备)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(空气处理设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="CH1" v:val="VT0(5):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道设备" v:val="VT0(17):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气处理设备" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<title>除湿器</title>
+				<g id="shape69-143" v:mID="69" v:groupContext="shape" v:layerMember="3;5">
+					<title>工作表.63</title>
+					<rect x="0" y="1532.02" width="92.0527" height="87.5167" class="st11"/>
+				</g>
+				<g id="group70-145" transform="translate(-1.06315E-12,-4.37253)" v:mID="70" v:groupContext="group">
+					<title>工作表.64</title>
+					<g id="shape71-146" v:mID="71" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-65.64)">
+						<title>工作表.71</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape72-149" v:mID="72" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-43.76)">
+						<title>工作表.72</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape73-152" v:mID="73" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-21.88)">
+						<title>工作表.73</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape74-155" v:mID="74" v:groupContext="shape" v:layerMember="3;5">
+						<title>工作表.74</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+				</g>
+			</g>
+			<g id="group75-158" transform="translate(107.56,-341.393)" v:mID="75" v:groupContext="group" v:layerMember="3;5">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(流道设备)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(空气处理设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="CH1" v:val="VT0(5):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道设备" v:val="VT0(17):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气处理设备" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<title>除湿器.133</title>
+				<g id="shape76-159" v:mID="76" v:groupContext="shape" v:layerMember="3;5">
+					<title>工作表.67</title>
+					<rect x="0" y="1532.02" width="92.0527" height="87.5167" class="st11"/>
+				</g>
+				<g id="group77-161" transform="translate(-1.06315E-12,-4.37253)" v:mID="77" v:groupContext="group">
+					<title>工作表.68</title>
+					<g id="shape78-162" v:mID="78" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-65.64)">
+						<title>工作表.78</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape79-165" v:mID="79" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-43.76)">
+						<title>工作表.79</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape80-168" v:mID="80" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-21.88)">
+						<title>工作表.80</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape81-171" v:mID="81" v:groupContext="shape" v:layerMember="3;5">
+						<title>工作表.81</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+				</g>
+			</g>
+			<g id="group82-174" transform="translate(109.283,-1007.59)" v:mID="82" v:groupContext="group" v:layerMember="3;5">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(流道设备)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(空气处理设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="CH1" v:val="VT0(5):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道设备" v:val="VT0(17):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气处理设备" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<title>除湿器.137</title>
+				<g id="shape83-175" v:mID="83" v:groupContext="shape" v:layerMember="3;5">
+					<title>工作表.71</title>
+					<rect x="0" y="1532.02" width="92.0527" height="87.5167" class="st11"/>
+				</g>
+				<g id="group84-177" transform="translate(-1.06315E-12,-4.37253)" v:mID="84" v:groupContext="group">
+					<title>工作表.72</title>
+					<g id="shape85-178" v:mID="85" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-65.64)">
+						<title>工作表.85</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape86-181" v:mID="86" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-43.76)">
+						<title>工作表.86</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape87-184" v:mID="87" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-21.88)">
+						<title>工作表.87</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape88-187" v:mID="88" v:groupContext="shape" v:layerMember="3;5">
+						<title>工作表.88</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+				</g>
+			</g>
+			<g id="group89-190" transform="translate(2444.07,-657.523)" v:mID="89" v:groupContext="group" v:layerMember="3;5">
+				<v:custProps>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(流道设备)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(空气处理设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="CH1" v:val="VT0(5):26"/>
+					<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="流道设备" v:val="VT0(17):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="空气处理设备" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<title>除湿器.141</title>
+				<g id="shape90-191" v:mID="90" v:groupContext="shape" v:layerMember="3;5">
+					<title>工作表.75</title>
+					<rect x="0" y="1532.02" width="92.0527" height="87.5167" class="st11"/>
+				</g>
+				<g id="group91-193" transform="translate(-1.06315E-12,-4.37253)" v:mID="91" v:groupContext="group">
+					<title>工作表.76</title>
+					<g id="shape92-194" v:mID="92" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-65.64)">
+						<title>工作表.92</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape93-197" v:mID="93" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-43.76)">
+						<title>工作表.93</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape94-200" v:mID="94" v:groupContext="shape" v:layerMember="3;5"
+							transform="translate(-5.9952E-13,-21.88)">
+						<title>工作表.94</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape95-203" v:mID="95" v:groupContext="shape" v:layerMember="3;5">
+						<title>工作表.95</title>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54 L0 1606.41 Z" class="st3"/>
+						<path d="M0 1606.41 L30.68 1619.54 L61.37 1606.41 L92.05 1619.54" class="st8"/>
+					</g>
+				</g>
+			</g>
+			<g id="group96-206" transform="translate(179.577,-1478.89)" v:mID="96" v:groupContext="group" v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="Technology" v:lbl="技术类型" v:type="1" v:format="M - 微波;I - 红外线;U - 紫外线辐射;X - 出口温度" v:langID="2052"
+							v:val="VT4(M - 微波)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>移动探测器</title>
+				<g id="shape97-207" v:mID="97" v:groupContext="shape" v:layerMember="6;7;8" transform="translate(92.0471,-87.5166)">
+					<title>工作表.79</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="shape98-209" v:mID="98" v:groupContext="shape" v:layerMember="6;7;8" transform="translate(92.0478,0)">
+					<title>工作表.80</title>
+					<desc>M</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="8.49" cy="1612.34" width="16.98" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>M</text>				</g>
+				<g id="group99-211" transform="translate(6.31495E-13,-7.2037)" v:mID="99" v:groupContext="group">
+					<title>工作表.81</title>
+					<g id="shape100-212" v:mID="100" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.100</title>
+						<path d="M0 1619.54 L92.05 1619.54 L92.05 1532.02 L0 1532.02 L0 1619.54 Z" class="st13"/>
+					</g>
+					<g id="shape101-214" v:mID="101" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.101</title>
+						<rect x="0" y="1532.02" width="92.05" height="87.52" class="st9"/>
+					</g>
+					<g id="shape102-216" v:mID="102" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(8.79297E-14,-43.76)">
+						<title>工作表.102</title>
+						<path d="M0 1619.54 L46.03 1575.78 L92.05 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L46.03 1575.78 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape103-219" v:mID="103" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.103</title>
+						<path d="M0 1619.54 L46.03 1532.02 L92.05 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L46.03 1532.02 L92.05 1619.54" class="st8"/>
+					</g>
+				</g>
+			</g>
+			<g id="group104-222" transform="translate(2352.02,-6.2963)" v:mID="104" v:groupContext="group" v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="Technology" v:lbl="技术类型" v:type="1" v:format="M - 微波;I - 红外线;U - 紫外线辐射;X - 出口温度" v:langID="2052"
+							v:val="VT4(M - 微波)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>移动探测器.149</title>
+				<g id="shape105-223" v:mID="105" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(92.0471,-87.5166)">
+					<title>工作表.83</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="shape106-225" v:mID="106" v:groupContext="shape" v:layerMember="6;7;8" transform="translate(92.0478,0)">
+					<title>工作表.84</title>
+					<desc>M</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="8.49" cy="1612.34" width="16.98" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>M</text>				</g>
+				<g id="group107-227" transform="translate(6.31495E-13,-7.2037)" v:mID="107" v:groupContext="group">
+					<title>工作表.85</title>
+					<g id="shape108-228" v:mID="108" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.108</title>
+						<path d="M0 1619.54 L92.05 1619.54 L92.05 1532.02 L0 1532.02 L0 1619.54 Z" class="st13"/>
+					</g>
+					<g id="shape109-230" v:mID="109" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.109</title>
+						<rect x="0" y="1532.02" width="92.05" height="87.52" class="st9"/>
+					</g>
+					<g id="shape110-232" v:mID="110" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(8.79297E-14,-43.76)">
+						<title>工作表.110</title>
+						<path d="M0 1619.54 L46.03 1575.78 L92.05 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L46.03 1575.78 L92.05 1619.54" class="st8"/>
+					</g>
+					<g id="shape111-235" v:mID="111" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.111</title>
+						<path d="M0 1619.54 L46.03 1532.02 L92.05 1619.54 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L46.03 1532.02 L92.05 1619.54" class="st8"/>
+					</g>
+				</g>
+			</g>
+			<g id="group112-238" transform="translate(2887.72,609.449) rotate(90)" v:mID="112" v:groupContext="group"
+					v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z</title>
+				<g id="shape113-239" v:mID="113" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(61.7423,-70.9918)">
+					<title>工作表.87</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group114-241" transform="translate(61.7479,-2.27374E-13)" v:mID="114" v:groupContext="group">
+					<title>工作表.88</title>
+					<g id="shape115-242" v:mID="115" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.115</title>
+						<path d="M0 1511.58 L17.02 1506.48 L10.28 1512.18 L16.37 1518.64 L0 1511.58 ZM0 1614.41 L16.39 1607.38 L10.28
+									 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st7"/>
+					</g>
+					<g id="shape116-244" v:mID="116" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-3.3773E-13,-100.9)">
+						<title>工作表.116</title>
+						<path d="M0 1612.48 L17.02 1607.38 L10.28 1613.08 L16.37 1619.54 L0 1612.48 Z" class="st9"/>
+					</g>
+					<g id="shape117-246" v:mID="117" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.117</title>
+						<path d="M0 1614.41 L16.39 1607.38 L10.28 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st9"/>
+					</g>
+					<g id="shape118-248" v:mID="118" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-2.51799E-13,-5.13)">
+						<title>工作表.118</title>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54 L0 1516.71 Z" class="st3"/>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape119-251" v:mID="119" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(4.55636E-13,-34.8967)">
+					<title>工作表.89</title>
+					<path d="M0 1619.54 L61.75 1619.54 L61.75 1576.24 L0 1576.24 L0 1619.54 ZM61.75 1608.71 L61.75 1587.06 L82.33
+								 1587.06 L82.33 1608.71 L61.75 1608.71 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group120-253" transform="translate(1324.73,-978.857)" v:mID="120" v:groupContext="group" v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.157</title>
+				<g id="shape121-254" v:mID="121" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(64.9427,-67.1386)">
+					<title>工作表.91</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group122-256" transform="translate(64.9483,4.54747E-13)" v:mID="122" v:groupContext="group">
+					<title>工作表.92</title>
+					<g id="shape123-257" v:mID="123" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.123</title>
+						<path d="M0 1516.9 L17.9 1512.05 L10.81 1517.47 L17.22 1523.61 L0 1516.9 ZM0 1614.66 L17.24 1607.98 L10.81
+									 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st7"/>
+					</g>
+					<g id="shape124-259" v:mID="124" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.80695E-13,-95.93)">
+						<title>工作表.124</title>
+						<path d="M0 1612.83 L17.9 1607.98 L10.81 1613.4 L17.22 1619.54 L0 1612.83 Z" class="st9"/>
+					</g>
+					<g id="shape125-261" v:mID="125" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.125</title>
+						<path d="M0 1614.66 L17.24 1607.98 L10.81 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st9"/>
+					</g>
+					<g id="shape126-263" v:mID="126" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.67706E-13,-4.88)">
+						<title>工作表.126</title>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54 L0 1521.78 Z" class="st3"/>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape127-266" v:mID="127" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(2.63789E-13,-33.1771)">
+					<title>工作表.93</title>
+					<path d="M0 1619.54 L64.95 1619.54 L64.95 1578.37 L0 1578.37 L0 1619.54 ZM64.95 1609.25 L64.95 1588.66 L86.6
+								 1588.66 L86.6 1609.25 L64.95 1609.25 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group128-268" transform="translate(1327.22,2151.82) rotate(180)" v:mID="128" v:groupContext="group"
+					v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.161</title>
+				<g id="shape129-269" v:mID="129" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(64.9427,-67.1386)">
+					<title>工作表.95</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group130-271" transform="translate(64.9483,4.54747E-13)" v:mID="130" v:groupContext="group">
+					<title>工作表.96</title>
+					<g id="shape131-272" v:mID="131" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.131</title>
+						<path d="M0 1516.9 L17.9 1512.05 L10.81 1517.47 L17.22 1523.61 L0 1516.9 ZM0 1614.66 L17.24 1607.98 L10.81
+									 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st7"/>
+					</g>
+					<g id="shape132-274" v:mID="132" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.80695E-13,-95.93)">
+						<title>工作表.132</title>
+						<path d="M0 1612.83 L17.9 1607.98 L10.81 1613.4 L17.22 1619.54 L0 1612.83 Z" class="st9"/>
+					</g>
+					<g id="shape133-276" v:mID="133" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.133</title>
+						<path d="M0 1614.66 L17.24 1607.98 L10.81 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st9"/>
+					</g>
+					<g id="shape134-278" v:mID="134" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.67706E-13,-4.88)">
+						<title>工作表.134</title>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54 L0 1521.78 Z" class="st3"/>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape135-281" v:mID="135" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(2.63789E-13,-33.1771)">
+					<title>工作表.97</title>
+					<path d="M0 1619.54 L64.95 1619.54 L64.95 1578.37 L0 1578.37 L0 1619.54 ZM64.95 1609.25 L64.95 1588.66 L86.6
+								 1588.66 L86.6 1609.25 L64.95 1609.25 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group136-283" transform="translate(-238.262,584.977) rotate(-90)" v:mID="136" v:groupContext="group"
+					v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.165</title>
+				<g id="shape137-284" v:mID="137" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(61.7423,-70.9918)">
+					<title>工作表.99</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group138-286" transform="translate(61.7479,-2.27374E-13)" v:mID="138" v:groupContext="group">
+					<title>工作表.100</title>
+					<g id="shape139-287" v:mID="139" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.139</title>
+						<path d="M0 1511.58 L17.02 1506.48 L10.28 1512.18 L16.37 1518.64 L0 1511.58 ZM0 1614.41 L16.39 1607.38 L10.28
+									 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st7"/>
+					</g>
+					<g id="shape140-289" v:mID="140" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-3.3773E-13,-100.9)">
+						<title>工作表.140</title>
+						<path d="M0 1612.48 L17.02 1607.38 L10.28 1613.08 L16.37 1619.54 L0 1612.48 Z" class="st9"/>
+					</g>
+					<g id="shape141-291" v:mID="141" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.141</title>
+						<path d="M0 1614.41 L16.39 1607.38 L10.28 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st9"/>
+					</g>
+					<g id="shape142-293" v:mID="142" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-2.51799E-13,-5.13)">
+						<title>工作表.142</title>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54 L0 1516.71 Z" class="st3"/>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape143-296" v:mID="143" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(4.55636E-13,-34.8967)">
+					<title>工作表.101</title>
+					<path d="M0 1619.54 L61.75 1619.54 L61.75 1576.24 L0 1576.24 L0 1619.54 ZM61.75 1608.71 L61.75 1587.06 L82.33
+								 1587.06 L82.33 1608.71 L61.75 1608.71 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group144-298" transform="translate(107.56,-495.66)" v:mID="144" v:groupContext="group" v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.169</title>
+				<g id="shape145-299" v:mID="145" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(64.9427,-67.1386)">
+					<title>工作表.103</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group146-301" transform="translate(64.9483,4.54747E-13)" v:mID="146" v:groupContext="group">
+					<title>工作表.104</title>
+					<g id="shape147-302" v:mID="147" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.147</title>
+						<path d="M0 1516.9 L17.9 1512.05 L10.81 1517.47 L17.22 1523.61 L0 1516.9 ZM0 1614.66 L17.24 1607.98 L10.81
+									 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st7"/>
+					</g>
+					<g id="shape148-304" v:mID="148" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.80695E-13,-95.93)">
+						<title>工作表.148</title>
+						<path d="M0 1612.83 L17.9 1607.98 L10.81 1613.4 L17.22 1619.54 L0 1612.83 Z" class="st9"/>
+					</g>
+					<g id="shape149-306" v:mID="149" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.149</title>
+						<path d="M0 1614.66 L17.24 1607.98 L10.81 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st9"/>
+					</g>
+					<g id="shape150-308" v:mID="150" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.67706E-13,-4.88)">
+						<title>工作表.150</title>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54 L0 1521.78 Z" class="st3"/>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape151-311" v:mID="151" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(2.63789E-13,-33.1771)">
+					<title>工作表.105</title>
+					<path d="M0 1619.54 L64.95 1619.54 L64.95 1578.37 L0 1578.37 L0 1619.54 ZM64.95 1609.25 L64.95 1588.66 L86.6
+								 1588.66 L86.6 1609.25 L64.95 1609.25 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group152-313" transform="translate(2522.57,3065.2) rotate(180)" v:mID="152" v:groupContext="group"
+					v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.173</title>
+				<g id="shape153-314" v:mID="153" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(64.9427,-67.1386)">
+					<title>工作表.107</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group154-316" transform="translate(64.9483,4.54747E-13)" v:mID="154" v:groupContext="group">
+					<title>工作表.108</title>
+					<g id="shape155-317" v:mID="155" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.155</title>
+						<path d="M0 1516.9 L17.9 1512.05 L10.81 1517.47 L17.22 1523.61 L0 1516.9 ZM0 1614.66 L17.24 1607.98 L10.81
+									 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st7"/>
+					</g>
+					<g id="shape156-319" v:mID="156" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.80695E-13,-95.93)">
+						<title>工作表.156</title>
+						<path d="M0 1612.83 L17.9 1607.98 L10.81 1613.4 L17.22 1619.54 L0 1612.83 Z" class="st9"/>
+					</g>
+					<g id="shape157-321" v:mID="157" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.157</title>
+						<path d="M0 1614.66 L17.24 1607.98 L10.81 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st9"/>
+					</g>
+					<g id="shape158-323" v:mID="158" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.67706E-13,-4.88)">
+						<title>工作表.158</title>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54 L0 1521.78 Z" class="st3"/>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape159-326" v:mID="159" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(2.63789E-13,-33.1771)">
+					<title>工作表.109</title>
+					<path d="M0 1619.54 L64.95 1619.54 L64.95 1578.37 L0 1578.37 L0 1619.54 ZM64.95 1609.25 L64.95 1588.66 L86.6
+								 1588.66 L86.6 1609.25 L64.95 1609.25 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group160-328" transform="translate(4028.71,45.9252) rotate(90)" v:mID="160" v:groupContext="group"
+					v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.177</title>
+				<g id="shape161-329" v:mID="161" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(61.7423,-70.9918)">
+					<title>工作表.111</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group162-331" transform="translate(61.7479,-2.27374E-13)" v:mID="162" v:groupContext="group">
+					<title>工作表.112</title>
+					<g id="shape163-332" v:mID="163" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.163</title>
+						<path d="M0 1511.58 L17.02 1506.48 L10.28 1512.18 L16.37 1518.64 L0 1511.58 ZM0 1614.41 L16.39 1607.38 L10.28
+									 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st7"/>
+					</g>
+					<g id="shape164-334" v:mID="164" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-3.3773E-13,-100.9)">
+						<title>工作表.164</title>
+						<path d="M0 1612.48 L17.02 1607.38 L10.28 1613.08 L16.37 1619.54 L0 1612.48 Z" class="st9"/>
+					</g>
+					<g id="shape165-336" v:mID="165" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.165</title>
+						<path d="M0 1614.41 L16.39 1607.38 L10.28 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st9"/>
+					</g>
+					<g id="shape166-338" v:mID="166" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-2.51799E-13,-5.13)">
+						<title>工作表.166</title>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54 L0 1516.71 Z" class="st3"/>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape167-341" v:mID="167" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(4.55636E-13,-34.8967)">
+					<title>工作表.113</title>
+					<path d="M0 1619.54 L61.75 1619.54 L61.75 1576.24 L0 1576.24 L0 1619.54 ZM61.75 1608.71 L61.75 1587.06 L82.33
+								 1587.06 L82.33 1608.71 L61.75 1608.71 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group168-343" transform="translate(-1340.19,1610.13) rotate(-90)" v:mID="168" v:groupContext="group"
+					v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.181</title>
+				<g id="shape169-344" v:mID="169" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(61.7423,-70.9918)">
+					<title>工作表.115</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group170-346" transform="translate(61.7479,-2.27374E-13)" v:mID="170" v:groupContext="group">
+					<title>工作表.116</title>
+					<g id="shape171-347" v:mID="171" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.171</title>
+						<path d="M0 1511.58 L17.02 1506.48 L10.28 1512.18 L16.37 1518.64 L0 1511.58 ZM0 1614.41 L16.39 1607.38 L10.28
+									 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st7"/>
+					</g>
+					<g id="shape172-349" v:mID="172" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-3.3773E-13,-100.9)">
+						<title>工作表.172</title>
+						<path d="M0 1612.48 L17.02 1607.38 L10.28 1613.08 L16.37 1619.54 L0 1612.48 Z" class="st9"/>
+					</g>
+					<g id="shape173-351" v:mID="173" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.173</title>
+						<path d="M0 1614.41 L16.39 1607.38 L10.28 1613.82 L17.01 1619.54 L0 1614.41 Z" class="st9"/>
+					</g>
+					<g id="shape174-353" v:mID="174" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(-2.51799E-13,-5.13)">
+						<title>工作表.174</title>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54 L0 1516.71 Z" class="st3"/>
+						<path d="M-0 1516.71 A51.4886 48.8871 90 1 1 -0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape175-356" v:mID="175" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(4.55636E-13,-34.8967)">
+					<title>工作表.117</title>
+					<path d="M0 1619.54 L61.75 1619.54 L61.75 1576.24 L0 1576.24 L0 1619.54 ZM61.75 1608.71 L61.75 1587.06 L82.33
+								 1587.06 L82.33 1608.71 L61.75 1608.71 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group176-358" transform="translate(2444.07,1653.93) rotate(180)" v:mID="176" v:groupContext="group"
+					v:layerMember="6;7;8">
+				<v:custProps>
+					<v:cp v:nameU="Mount" v:lbl="安装类型" v:type="1"
+							v:format="P - 基架;T - 旋转门;S - 曲面;F - 齐平面;R - 齿轨;M - 竖框;D - 桌子;W - 墙;C - 天花板;H - 隐藏" v:langID="2052"
+							v:val="VT4(C - 天花板)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:invis="true" v:langID="2052" v:val="VT4(电气装置)"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="子形状类型" v:invis="true" v:langID="2052" v:val="VT4(设备)"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="电气装置" v:val="VT0(12):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="设备" v:val="VT0(37):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+				</v:userDefs>
+				<title>摄像机 P/T/Z.185</title>
+				<g id="shape177-359" v:mID="177" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(64.9427,-67.1386)">
+					<title>工作表.119</title>
+					<desc>C</desc>
+					<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+					<v:textRect cx="6.56" cy="1612.34" width="13.12" height="14.4037"/>
+					<text x="5.36" y="1615.94" class="st12" v:langID="2052"><v:paragraph v:indentLeft="4" v:horizAlign="1"/><v:tabList/>C</text>				</g>
+				<g id="group178-361" transform="translate(64.9483,4.54747E-13)" v:mID="178" v:groupContext="group">
+					<title>工作表.120</title>
+					<g id="shape179-362" v:mID="179" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.179</title>
+						<path d="M0 1516.9 L17.9 1512.05 L10.81 1517.47 L17.22 1523.61 L0 1516.9 ZM0 1614.66 L17.24 1607.98 L10.81
+									 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st7"/>
+					</g>
+					<g id="shape180-364" v:mID="180" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.80695E-13,-95.93)">
+						<title>工作表.180</title>
+						<path d="M0 1612.83 L17.9 1607.98 L10.81 1613.4 L17.22 1619.54 L0 1612.83 Z" class="st9"/>
+					</g>
+					<g id="shape181-366" v:mID="181" v:groupContext="shape" v:layerMember="6;7;8">
+						<title>工作表.181</title>
+						<path d="M0 1614.66 L17.24 1607.98 L10.81 1614.11 L17.89 1619.54 L0 1614.66 Z" class="st9"/>
+					</g>
+					<g id="shape182-368" v:mID="182" v:groupContext="shape" v:layerMember="6;7;8"
+							transform="translate(3.67706E-13,-4.88)">
+						<title>工作表.182</title>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54 L0 1521.78 Z" class="st3"/>
+						<path d="M-0 1521.78 A51.421 48.9514 180 1 1 0 1619.54" class="st8"/>
+					</g>
+				</g>
+				<g id="shape183-371" v:mID="183" v:groupContext="shape" v:layerMember="6;7;8"
+						transform="translate(2.63789E-13,-33.1771)">
+					<title>工作表.121</title>
+					<path d="M0 1619.54 L64.95 1619.54 L64.95 1578.37 L0 1578.37 L0 1619.54 ZM64.95 1609.25 L64.95 1588.66 L86.6
+								 1588.66 L86.6 1609.25 L64.95 1609.25 Z" class="st11"/>
+				</g>
+			</g>
+			<g id="group184-373" transform="translate(1619.54,209.297) rotate(90)" v:mID="184" v:groupContext="group"
+					v:layerMember="0;2">
+				<v:custProps>
+					<v:cp v:nameU="VisDoorHeight" v:lbl="门高" v:type="4" v:format="2100 mm;2300 mm;2350 mm;2400 mm;2700 mm;3000 mm"
+							v:sortKey="2" v:invis="false" v:langID="2052" v:val="VT0(82.677165354331):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="参考线偏移" v:type="2" v:format="" v:invis="true" v:langID="2052" v:val="VT0(0):26"/>
+					<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="SubVisDoorFrameWidth" v:lbl="门框宽度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorFrameDepth" v:lbl="门框深度" v:type="4" v:format="墙框;100 mm;150 mm;200 mm;250 mm;300 mm"
+							v:invis="true" v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorStopWidth" v:lbl="门挡宽度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(20 mm)"/>
+					<v:cp v:nameU="SubVisDoorStopDepth" v:lbl="门挡深度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresDepthIn" v:lbl="门槛内宽度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresWidthIn" v:lbl="门槛内深度" v:type="4"
+							v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true"
+							v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresDepthOut" v:lbl="门槛外深度" v:type="4"
+							v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true"
+							v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresWidthOut" v:lbl="门槛外宽度" v:type="4"
+							v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true"
+							v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorPanelThickness" v:lbl="门板厚度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="VisDoorLeaf" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="VisDoorSpring" v:lbl="门弹簧高度" v:type="4" v:format="1050 mm;1150 mm;1200 mm;1350 mm;1500 mm"
+							v:invis="true" v:langID="2052" v:val="VT0(41.338582677165):24"/>
+					<v:cp v:nameU="VisDoorAlongWallOffset" v:lbl="门沿着墙壁的偏移" v:type="4" v:format="0 mm;50 mm;100 mm;150 mm;200 mm"
+							v:invis="true" v:langID="2052" v:val="VT0(3.9370078740157):24"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="门类型" v:type="1" v:format="对开门;对开双悬门" v:sortKey="3" v:invis="false"
+							v:langID="2052" v:val="VT4(双)"/>
+					<v:cp v:nameU="VisJustification" v:lbl="门在墙壁内的偏移" v:type="1" v:format="左对齐;居中;右对齐" v:sortKey="4"
+							v:invis="false" v:langID="2052" v:val="VT4(居中)"/>
+					<v:cp v:nameU="VisDoorOpenPercent" v:lbl="门开启百分比" v:type="4" v:format="0;25;50;75;100" v:sortKey="5"
+							v:invis="false" v:langID="2052" v:val="VT4(50)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(门)"/>
+					<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="DoorNumber" v:lbl="门编号" v:type="0" v:sortKey="6" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisIsDouble" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TextAng" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubShapeLocPinY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallOpening"/>
+					<v:ud v:nameU="LinkedToWall"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(1):26"/>
+					<v:ud v:nameU="3D_model_id" v:val="VT4(门)"/>
+					<v:ud v:nameU="VisDoorInWallOffset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisWallLinePattern" v:val="VT0(1):26"/>
+					<v:ud v:nameU="VisWallRefLn" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowFrame" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Door" v:val="VT0(102):26"/>
+					<v:ud v:nameU="visDoorUIDisableCodes" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowStop" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="VisWallLineWeight" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisWallLineColor" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorPanelsClosed" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowSwing" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorFrameToWall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorShowPanel" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorShowHeader" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowTag" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowThreshold" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BottomBow" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TopBow" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWallParam" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWallDir" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisWallLineWeightInch" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorSwingAs" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowThresIn" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorShowThresOut" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TriggerOpeningLink"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="门" v:val="VT0(10):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="双" v:val="VT0(28):26"/>
+					<v:ud v:nameU="JustfyLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<title>双门.87</title>
+				<g id="shape185-374" v:mID="185" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(4.31655E-13,-96.58)">
+					<title>工作表.30</title>
+					<v:userDefs>
+						<v:ud v:nameU="Overhang" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="SubVisDoorFrameWidth" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visBESnapObject" v:val="VT0(1):26"/>
+					</v:userDefs>
+					<path d="M0 1619.54 L201.97 1619.54 L201.97 1614.99 L0 1614.99 L0 1619.54 Z" class="st14"/>
+				</g>
+				<g id="group189-376" transform="translate(0.00268,-96.73)" v:mID="189" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.34</title>
+					<g id="shape190-377" v:mID="190" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.190</title>
+						<path d="M201.97 1619.54 L201.97 1615.29 L200.55 1615.29 L200.55 1616.7 L200.55 1618.12 L200.55 1619.54 L201.97
+									 1619.54 ZM0 1619.54 L0 1615.29 L1.42 1615.29 L1.42 1616.7 L1.42 1618.12 L1.42 1619.54 L0 1619.54
+									 Z" class="st15"/>
+					</g>
+					<g id="shape191-379" v:mID="191" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.191</title>
+						<path d="M201.97 1619.54 L201.97 1615.29 L200.55 1615.29 L200.55 1616.7 L201.97 1619.54 ZM200.55 1618.12
+									 L200.55 1619.54 L201.97 1619.54 L200.55 1618.12 ZM0 1619.54 L0 1615.29 L1.42 1615.29 L1.42 1616.7
+									 L0 1619.54 ZM1.42 1618.12 L1.42 1619.54 L0 1619.54 L1.42 1618.12 Z" class="st3"/>
+						<path d="M201.97 1619.54 L201.97 1615.29 L200.55 1615.29 L200.55 1616.7M200.55 1618.12 L200.55 1619.54 L201.97
+									 1619.54M0 1619.54 L0 1615.29 L1.42 1615.29 L1.42 1616.7M1.42 1618.12 L1.42 1619.54 L0 1619.54"
+								class="st16"/>
+					</g>
+				</g>
+				<g id="group192-382" transform="translate(1.42,-98.1473)" v:mID="192" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="SubVisDoorFrameWidth" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.35</title>
+					<g id="shape193-383" v:mID="193" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.193</title>
+						<path d="M199.13 1618.12 L198.56 1618.12 L198.56 1619.54 L199.13 1619.54 L199.13 1618.12 ZM0 1618.12 L0.57
+									 1618.12 L0.57 1619.54 L0 1619.54 L0 1618.12 Z" class="st15"/>
+					</g>
+					<g id="shape194-385" v:mID="194" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.194</title>
+						<path d="M199.13 1618.12 L198.56 1618.12 L198.56 1619.54 L199.13 1619.54 L199.13 1618.12 ZM0 1618.12 L0.57
+									 1618.12 L0.57 1619.54 L0 1619.54 L0 1618.12 Z" class="st3"/>
+						<path d="M199.13 1618.12 L198.56 1618.12 L198.56 1619.54 L199.13 1619.54M0 1618.12 L0.57 1618.12 L0.57 1619.54
+									 L0 1619.54" class="st16"/>
+					</g>
+				</g>
+				<g id="group195-388" transform="translate(0.00268,-96.73)" v:mID="195" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="SubVisDoorFrameDepth" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.36</title>
+					<g id="shape196-389" v:mID="196" v:groupContext="shape" v:layerMember="0;2" transform="translate(201.97,0)">
+						<title>工作表.196</title>
+						<path d="M0 1619.54 L0 1615.29 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L0 1615.29" class="st17"/>
+					</g>
+					<g id="shape197-392" v:mID="197" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.197</title>
+						<path d="M0 1619.54 L0 1615.29 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L0 1615.29" class="st17"/>
+					</g>
+				</g>
+				<g id="shape198-395" v:mID="198" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(100.985,-100.982) scale(-1,1)">
+					<title>工作表.37</title>
+					<v:userDefs>
+						<v:ud v:nameU="VisDoorShowSwingAsArc" v:val="VT0(1):5"/>
+						<v:ud v:nameU="VisDoorShowSwingAsLine" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<path d="M0 1619.54 A99.5653 99.5653 0 0 1 99.57 1519.97 L0 1619.54 Z" class="st3"/>
+					<path d="M0 1619.54 A99.5653 99.5653 0 0 1 99.57 1519.97" class="st16"/>
+				</g>
+				<g id="shape199-398" v:mID="199" v:groupContext="shape" v:layerMember="0;2" transform="translate(100.985,-100.982)">
+					<title>工作表.38</title>
+					<v:userDefs>
+						<v:ud v:nameU="VisDoorShowSwingAsArc" v:val="VT0(1):5"/>
+						<v:ud v:nameU="VisDoorShowSwingAsLine" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<path d="M0 1619.54 A99.5653 99.5653 0 0 1 99.57 1519.97 L0 1619.54 Z" class="st3"/>
+					<path d="M0 1619.54 A99.5653 99.5653 0 0 1 99.57 1519.97" class="st16"/>
+				</g>
+				<g id="shape200-401" v:mID="200" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(1620.96,1418.99) rotate(90)">
+					<title>工作表.39</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="99.5653" height="1.41732" class="st18"/>
+				</g>
+				<g id="shape201-403" v:mID="201" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(1818.67,1418.99) rotate(90)">
+					<title>工作表.40</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="99.5653" height="1.41732" class="st18"/>
+				</g>
+				<g id="shape202-405" v:mID="202" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(-1418.99,1619.54) rotate(-90)">
+					<title>工作表.41</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="99.5653" height="1.41732" class="st19"/>
+				</g>
+				<g id="shape203-407" v:mID="203" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(-1616.7,1619.54) rotate(-90)">
+					<title>工作表.42</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="99.5653" height="1.41732" class="st19"/>
+				</g>
+			</g>
+			<g id="group207-409" transform="translate(1009.31,1339.66) rotate(-90)" v:mID="207" v:groupContext="group"
+					v:layerMember="0;2">
+				<v:custProps>
+					<v:cp v:nameU="VisDoorHeight" v:lbl="门高" v:type="4" v:format="2100 mm;2300 mm;2350 mm;2400 mm;2700 mm;3000 mm"
+							v:sortKey="2" v:invis="false" v:langID="2052" v:val="VT0(82.677165354331):24"/>
+					<v:cp v:nameU="RefLn" v:lbl="参考线偏移" v:type="2" v:format="" v:invis="true" v:langID="2052" v:val="VT0(0):26"/>
+					<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false" v:ask="false"
+							v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="SubVisDoorFrameWidth" v:lbl="门框宽度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorFrameDepth" v:lbl="门框深度" v:type="4" v:format="墙框;100 mm;150 mm;200 mm;250 mm;300 mm"
+							v:invis="true" v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorStopWidth" v:lbl="门挡宽度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(20 mm)"/>
+					<v:cp v:nameU="SubVisDoorStopDepth" v:lbl="门挡深度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresDepthIn" v:lbl="门槛内宽度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresWidthIn" v:lbl="门槛内深度" v:type="4"
+							v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true"
+							v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresDepthOut" v:lbl="门槛外深度" v:type="4"
+							v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true"
+							v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorThresWidthOut" v:lbl="门槛外宽度" v:type="4"
+							v:format="0 mm;10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true"
+							v:langID="2052" v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="SubVisDoorPanelThickness" v:lbl="门板厚度" v:type="4"
+							v:format="10 mm;20 mm;30 mm;40 mm;50 mm;60 mm;70 mm;80 mm;90 mm;100 mm" v:invis="true" v:langID="2052"
+							v:val="VT4(50 mm)"/>
+					<v:cp v:nameU="VisDoorLeaf" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+							v:ask="false" v:langID="2052" v:cal="0" v:val="VT0(0):26"/>
+					<v:cp v:nameU="VisDoorSpring" v:lbl="门弹簧高度" v:type="4" v:format="1050 mm;1150 mm;1200 mm;1350 mm;1500 mm"
+							v:invis="true" v:langID="2052" v:val="VT0(41.338582677165):24"/>
+					<v:cp v:nameU="VisDoorAlongWallOffset" v:lbl="门沿着墙壁的偏移" v:type="4" v:format="0 mm;50 mm;100 mm;150 mm;200 mm"
+							v:invis="true" v:langID="2052" v:val="VT0(3.9370078740157):24"/>
+					<v:cp v:nameU="SubShapeType" v:lbl="门类型" v:type="1" v:format="对开门;对开双悬门" v:sortKey="3" v:invis="false"
+							v:langID="2052" v:val="VT4(双)"/>
+					<v:cp v:nameU="VisJustification" v:lbl="门在墙壁内的偏移" v:type="1" v:format="左对齐;居中;右对齐" v:sortKey="4"
+							v:invis="false" v:langID="2052" v:val="VT4(居中)"/>
+					<v:cp v:nameU="VisDoorOpenPercent" v:lbl="门开启百分比" v:type="4" v:format="0;25;50;75;100" v:sortKey="5"
+							v:invis="false" v:langID="2052" v:val="VT4(50)"/>
+					<v:cp v:nameU="ShapeClass" v:lbl="形状类" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(建筑物组件)"/>
+					<v:cp v:nameU="ShapeType" v:lbl="形状类型" v:type="0" v:invis="true" v:langID="2052" v:val="VT4(门)"/>
+					<v:cp v:nameU="FireRating" v:lbl="防火等级" v:type="0" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="DoorNumber" v:lbl="门编号" v:type="0" v:sortKey="6" v:invis="false" v:langID="2052"/>
+					<v:cp v:nameU="BaseElevation" v:lbl="基本标高" v:type="2" v:langID="2052"/>
+				</v:custProps>
+				<v:userDefs>
+					<v:ud v:nameU="AntiScale" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisIsDouble" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TextAng" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubShapeLocPinY" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="WallOpening"/>
+					<v:ud v:nameU="LinkedToWall"/>
+					<v:ud v:nameU="3D_type" v:val="VT0(1):26"/>
+					<v:ud v:nameU="3D_model_id" v:val="VT4(门)"/>
+					<v:ud v:nameU="VisDoorInWallOffset" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisWallLinePattern" v:val="VT0(1):26"/>
+					<v:ud v:nameU="VisWallRefLn" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowFrame" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visObjectType" v:prompt="Door" v:val="VT0(102):26"/>
+					<v:ud v:nameU="visDoorUIDisableCodes" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowStop" v:val="VT0(1):26"/>
+					<v:ud v:nameU="HasText" v:val="VT0(0):5"/>
+					<v:ud v:nameU="VisWallLineWeight" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisWallLineColor" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorPanelsClosed" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowSwing" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorFrameToWall" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorShowPanel" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorShowHeader" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowTag" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowThreshold" v:val="VT0(0):26"/>
+					<v:ud v:nameU="BottomBow" v:val="VT0(0):26"/>
+					<v:ud v:nameU="TopBow" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWallParam" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="PreviousWallDir" v:val="VT0(0):26"/>
+					<v:ud v:nameU="VisWallLineWeightInch" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorSwingAs" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SubVisDoorShowThresIn" v:val="VT0(1):26"/>
+					<v:ud v:nameU="SubVisDoorShowThresOut" v:val="VT0(1):26"/>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TriggerOpeningLink"/>
+					<v:ud v:nameU="visBESelected" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="SolSH" v:val="VT4({5D50005D-537C-4738-9C46-130C74335A6D})"/>
+					<v:ud v:nameU="ShapeClass" v:prompt="建筑物组件" v:val="VT0(3):26"/>
+					<v:ud v:nameU="ShapeType" v:prompt="门" v:val="VT0(10):26"/>
+					<v:ud v:nameU="SubShapeType" v:prompt="双" v:val="VT0(28):26"/>
+					<v:ud v:nameU="JustfyLookup" v:val="VT0(1):26"/>
+					<v:ud v:nameU="RefLn" v:val="VT0(0):26"/>
+				</v:userDefs>
+				<title>双门</title>
+				<g id="shape208-410" v:mID="208" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(-1.43885E-12,-88.32)">
+					<title>工作表.123</title>
+					<v:userDefs>
+						<v:ud v:nameU="Overhang" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="SubVisDoorFrameWidth" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="visBESnapObject" v:val="VT0(1):26"/>
+					</v:userDefs>
+					<path d="M0 1619.54 L185.44 1619.54 L185.44 1614.99 L0 1614.99 L0 1619.54 Z" class="st14"/>
+				</g>
+				<g id="group212-412" transform="translate(0.00268,-88.47)" v:mID="212" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.127</title>
+					<g id="shape213-413" v:mID="213" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.213</title>
+						<path d="M185.44 1619.54 L185.44 1615.29 L184.02 1615.29 L184.02 1616.7 L184.02 1618.12 L184.02 1619.54 L185.44
+									 1619.54 ZM0 1619.54 L0 1615.29 L1.42 1615.29 L1.42 1616.7 L1.42 1618.12 L1.42 1619.54 L0 1619.54
+									 Z" class="st15"/>
+					</g>
+					<g id="shape214-415" v:mID="214" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.214</title>
+						<path d="M185.44 1619.54 L185.44 1615.29 L184.02 1615.29 L184.02 1616.7 L185.44 1619.54 ZM184.02 1618.12
+									 L184.02 1619.54 L185.44 1619.54 L184.02 1618.12 ZM0 1619.54 L0 1615.29 L1.42 1615.29 L1.42 1616.7
+									 L0 1619.54 ZM1.42 1618.12 L1.42 1619.54 L0 1619.54 L1.42 1618.12 Z" class="st3"/>
+						<path d="M185.44 1619.54 L185.44 1615.29 L184.02 1615.29 L184.02 1616.7M184.02 1618.12 L184.02 1619.54 L185.44
+									 1619.54M0 1619.54 L0 1615.29 L1.42 1615.29 L1.42 1616.7M1.42 1618.12 L1.42 1619.54 L0 1619.54"
+								class="st16"/>
+					</g>
+				</g>
+				<g id="group215-418" transform="translate(1.42,-89.8873)" v:mID="215" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="SubVisDoorFrameWidth" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.128</title>
+					<g id="shape216-419" v:mID="216" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.216</title>
+						<path d="M182.6 1618.12 L182.04 1618.12 L182.04 1619.54 L182.6 1619.54 L182.6 1618.12 ZM0 1618.12 L0.57 1618.12
+									 L0.57 1619.54 L0 1619.54 L0 1618.12 Z" class="st15"/>
+					</g>
+					<g id="shape217-421" v:mID="217" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.217</title>
+						<path d="M182.6 1618.12 L182.04 1618.12 L182.04 1619.54 L182.6 1619.54 L182.6 1618.12 ZM0 1618.12 L0.57 1618.12
+									 L0.57 1619.54 L0 1619.54 L0 1618.12 Z" class="st3"/>
+						<path d="M182.6 1618.12 L182.04 1618.12 L182.04 1619.54 L182.6 1619.54M0 1618.12 L0.57 1618.12 L0.57 1619.54
+									 L0 1619.54" class="st16"/>
+					</g>
+				</g>
+				<g id="group218-424" transform="translate(0.00268,-88.47)" v:mID="218" v:groupContext="group">
+					<v:userDefs>
+						<v:ud v:nameU="SubVisDoorFrameDepth" v:prompt="" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<title>工作表.129</title>
+					<g id="shape219-425" v:mID="219" v:groupContext="shape" v:layerMember="0;2" transform="translate(185.44,0)">
+						<title>工作表.219</title>
+						<path d="M0 1619.54 L0 1615.29 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L0 1615.29" class="st17"/>
+					</g>
+					<g id="shape220-428" v:mID="220" v:groupContext="shape" v:layerMember="0;2">
+						<title>工作表.220</title>
+						<path d="M0 1619.54 L0 1615.29 L0 1619.54 Z" class="st3"/>
+						<path d="M0 1619.54 L0 1615.29" class="st17"/>
+					</g>
+				</g>
+				<g id="shape221-431" v:mID="221" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(92.7216,-92.7219) scale(-1,1)">
+					<title>工作表.130</title>
+					<v:userDefs>
+						<v:ud v:nameU="VisDoorShowSwingAsArc" v:val="VT0(1):5"/>
+						<v:ud v:nameU="VisDoorShowSwingAsLine" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<path d="M0 1619.54 A91.3016 91.3016 0 0 1 91.3 1528.24 L0 1619.54 Z" class="st3"/>
+					<path d="M0 1619.54 A91.3016 91.3016 0 0 1 91.3 1528.24" class="st16"/>
+				</g>
+				<g id="shape222-434" v:mID="222" v:groupContext="shape" v:layerMember="0;2" transform="translate(92.7216,-92.7219)">
+					<title>工作表.131</title>
+					<v:userDefs>
+						<v:ud v:nameU="VisDoorShowSwingAsArc" v:val="VT0(1):5"/>
+						<v:ud v:nameU="VisDoorShowSwingAsLine" v:val="VT0(0):26"/>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<path d="M0 1619.54 A91.3016 91.3016 0 0 1 91.3 1528.24 L0 1619.54 Z" class="st3"/>
+					<path d="M0 1619.54 A91.3016 91.3016 0 0 1 91.3 1528.24" class="st16"/>
+				</g>
+				<g id="shape223-437" v:mID="223" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(1620.96,1435.52) rotate(90)">
+					<title>工作表.132</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="91.3016" height="1.41732" class="st18"/>
+				</g>
+				<g id="shape224-439" v:mID="224" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(1802.14,1435.52) rotate(90)">
+					<title>工作表.133</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="91.3016" height="1.41732" class="st18"/>
+				</g>
+				<g id="shape225-441" v:mID="225" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(-1435.52,1619.54) rotate(-90)">
+					<title>工作表.134</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="91.3016" height="1.41732" class="st19"/>
+				</g>
+				<g id="shape226-443" v:mID="226" v:groupContext="shape" v:layerMember="0;2"
+						transform="translate(-1616.7,1619.54) rotate(-90)">
+					<title>工作表.135</title>
+					<v:userDefs>
+						<v:ud v:nameU="DropOnPageScale" v:prompt="" v:val="VT0(0):26"/>
+					</v:userDefs>
+					<rect x="0" y="1618.12" width="91.3016" height="1.41732" class="st19"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape235-445" v:mID="235" v:groupContext="shape" transform="translate(637.795,-1502.36)">
+			<title>工作表.235</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="115.91" y="1583.35" class="st21" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape236-448" v:mID="236" v:groupContext="shape" transform="translate(1459.84,-1502.36)">
+			<title>工作表.236</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="115.91" y="1583.35" class="st21" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape237-451" v:mID="237" v:groupContext="shape" transform="translate(651.969,-1000.63)">
+			<title>工作表.237</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="119.91" y="1582.15" class="st22" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape238-454" v:mID="238" v:groupContext="shape" transform="translate(1474.02,-1003.46)">
+			<title>工作表.238</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="119.91" y="1582.15" class="st22" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape239-457" v:mID="239" v:groupContext="shape" transform="translate(1687.57,537.649) rotate(90)">
+			<title>工作表.239</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="115.91" y="1583.35" class="st21" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape240-460" v:mID="240" v:groupContext="shape" transform="translate(801.248,882.531) rotate(-90)">
+			<title>工作表.240</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="115.91" y="1583.35" class="st21" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape241-463" v:mID="241" v:groupContext="shape" transform="translate(651.969,-527.244)">
+			<title>工作表.241</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="119.91" y="1582.15" class="st22" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape242-466" v:mID="242" v:groupContext="shape" transform="translate(1474.02,-527.244)">
+			<title>工作表.242</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="119.91" y="1582.15" class="st22" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape243-469" v:mID="243" v:groupContext="shape" transform="translate(666.142,-28.3465)">
+			<title>工作表.243</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="115.91" y="1583.35" class="st21" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+		<g id="shape244-472" v:mID="244" v:groupContext="shape" transform="translate(1488.19,-31.1811)">
+			<title>工作表.244</title>
+			<desc>通道</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)"/>
+			<v:textRect cx="155.906" cy="1571.35" width="311.82" height="96.378"/>
+			<rect x="0" y="1523.16" width="311.811" height="96.378" class="st20"/>
+			<text x="115.91" y="1583.35" class="st21" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>通道</text>		</g>
+	</g>
+</svg>

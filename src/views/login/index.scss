@@ -1,0 +1,92 @@
+#login {
+  height: 100vh;
+  background-image: url(~@/assets/icons/en/login-bgc.png);
+  background-size: cover;
+  margin: -5px;
+  ::v-deep #loginform {
+    // @include borders($Gray5);
+      width: 50%;
+      border-radius: 5px;
+      background: #2d2d2d;
+      /* -webkit-box-shadow: 0 0 20px #b6b6b6; */
+      /* box-shadow: 0 0 20px #b6b6b6; */
+      text-align: center;
+      margin: 24% auto 10% 25%;
+      opacity: 0.8;
+
+    #login-title {
+      @include fontfamily-m('PF-S');
+      padding-top: 20%;
+      font-size: 45px;
+      // color: $Black0;
+      color: #fff;
+    }
+    #login-subtitle {
+      @include fontfamily-m('PF-R');
+      font-size: 16px;
+      background-image: -webkit-linear-gradient(bottom,#043868,#034581,#0789fb);
+      -webkit-background-clip: text;
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    #login-inputarea {
+      padding: 17% 9% 0 8%;
+
+      .login-input {
+        width: 70%;
+        height: 37px;
+        text-align: center;
+        margin: 0 auto 20px;
+        .el-input__inner {
+          @include fontfamily-m('AH-R');
+          border-radius: 5px;
+          background: $Gray0;
+
+          height: 100%;
+        }
+      }
+
+      #login-b {
+        width: 70%;
+        margin: 0 auto;
+        padding: 15% 0;
+        .el-input__inner {
+          @include fontfamily-m('PF-M');
+          // background: $Blue1;//#056ccd
+          background: #056ccd;
+          height: 40px;
+          border-radius: 10px;
+          color: $White0;
+          font-size: 18px;
+          border: 1px solid #c4c4c4;
+        }
+      }
+    }
+  }
+
+  ::v-deep .login-info {
+    @include fontfamily-m('PF-R');
+    width: 60%;
+    font-size: 17px;
+    color: $White0 + bf;
+    padding-top: 5%;
+    text-align: center;
+    margin: auto;
+  }
+}
+
+::v-deep .el-icon-user {
+  background: url(~@/assets/icons/en/login-user.png) center no-repeat;
+}
+
+::v-deep .el-icon-pwd {
+  background: url(~@/assets/icons/en/login-pwd.png) center no-repeat;
+}
+
+::v-deep .el-input--prefix .el-input__inner {
+  text-align: center;
+}
+
+::v-deep .el-input__prefix {
+  left: 6%;
+}

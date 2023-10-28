@@ -1,0 +1,826 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="262" xmlns:xlink="http://www.w3.org/1999/xlink" height="357" viewBox="0 0 262 356.698">
+    <defs>
+        <clipPath id="clip1">
+            <path d="M0,63.7L1.6,59.3L141.2,0L235.5,24.5L92.2,119.3L0,63.7z"/>
+        </clipPath>
+        <linearGradient id="lg1" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg2" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip2">
+            <path d="M37,289.5L186.1,207.7L186.1,2.9L39.1,70.1L0,189.3L37,289.5z"/>
+        </clipPath>
+        <linearGradient id="lg3" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg4" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip3">
+            <path d="M3,0L86.6,33.3C88.5,33.8,89.4,35.5,89.7,36.4L89.7,251.9C89.7,253.6,88.2,254.6,86.6,254.6L3.1,213.3C.7,212,.3,211.4,0,210.2L0,2.9C0,1.2,1.3,0,3,0z"/>
+        </clipPath>
+        <linearGradient id="lg5" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg6" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip4">
+            <path d="M0,68.5C6.3,71.1,7.1,71,11.7,75.1C14.3,77.3,15.5,84,15.5,84L155.8,6.1C155.8,6.1,156.6,3.1,155.4,2.1C154.4,1.2,145.6,0,145.6,0L0,68.5z"/>
+        </clipPath>
+        <linearGradient id="lg7" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg8" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip5">
+            <path d="M-0,0C3.9,0,15.6,5.5,16.2,15.1C16.4,18.4,16.2,218.2,16.2,218.2C16.2,218.2,8.3,224.6,7.4,223.8C6.4,222.7,.1,220.5,.1,220.5L-0,0z"/>
+        </clipPath>
+        <linearGradient id="lg9" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg10" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip6">
+            <path d="M53.4,18.3L26.7,223.1L.1,211.7L.1,.8C.1,.8,-0.8,-0.8,3.1,.4L53.4,18.3z"/>
+        </clipPath>
+        <linearGradient id="lg11" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg12" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip7">
+            <path d="M0,0L0,4.5L48.9,27.3L48.9,22.5L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg13" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg14" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip8">
+            <path d="M0,0L0,5L48.9,27.6L48.9,22L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg15" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg16" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip9">
+            <path d="M0,0L0,5.3L49.2,28.1L49.2,23.1L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg17" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg18" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip10">
+            <path d="M0,0L0,5.3L48.5,27.6L48.5,22.6L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg19" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg20" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip11">
+            <path d="M0,0L.1,4.5L44,23.8L44,19.5L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg21" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg22" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip12">
+            <path d="M0,0L0,5.6L44.2,25.5L44.2,20.4L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg23" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg24" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip13">
+            <path d="M0,0L44.5,20.2L44.5,25L0,5.6L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg25" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg26" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip14">
+            <path d="M0,0L44.5,21L44.5,25.7L0,5.6L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg27" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg28" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip15">
+            <path d="M0,0L33.2,14.8L36.9,21.6L.1,5L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg29" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg30" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip16">
+            <path d="M0,0L32.9,15.3L36.8,22.9L.2,6.2L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg31" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg32" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip17">
+            <path d="M0,0L33.2,14.9L36.9,22.3L.1,5.7L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg33" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg34" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip18">
+            <path d="M0,0L33.2,14.8L36.9,21.6L.1,5L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg35" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg36" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip19">
+            <path d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg37" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg38" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip20">
+            <path d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg39" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg40" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip21">
+            <path d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg41" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg42" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip22">
+            <path d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg43" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg44" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip23">
+            <path d="M0,11.9L22.6,0L113.1,41.7L89.2,55.9L0,11.9z"/>
+        </clipPath>
+        <linearGradient id="lg45" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg46" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip24">
+            <path d="M0,14.3L0,103.1L23.9,89.9L23.9,0L0,14.3z"/>
+        </clipPath>
+        <linearGradient id="lg47" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg48" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip25">
+            <path d="M89.2,44.1L0,0L0,84.9L89.2,132.9L89.2,44.1z"/>
+        </clipPath>
+        <linearGradient id="lg49" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg50" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip26">
+            <path d="M0,0L0,14.9L89,61.4L89.2,44.1L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg51" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg52" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip27">
+            <path d="M0,0L0,14.9L26.1,28.5L26.1,12.9L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg53" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg54" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip28">
+            <path d="M0,0L0,16.7L17.2,25.7L17.4,7.9L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg55" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg56" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip29">
+            <path d="M0,0L0,18.5L89,66.1L89.2,49L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg57" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg58" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip30">
+            <path d="M0,0L0,17.3L89,63.8L89,47.6L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg59" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg60" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip31">
+            <path d="M0,0L0,14.9L89.2,63.8L89,46.5L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg61" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg62" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip32">
+            <path d="M0,0L0,14.9L47.4,41L47.4,24.8L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg63" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg64" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip33">
+            <path d="M17.2,9.5L17.2,27.7L0,18.5L0,0L17.2,9.5z"/>
+        </clipPath>
+        <linearGradient id="lg65" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg66" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip34">
+            <path d="M0,0L0,18.2L47,43.2L47.2,26.1L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg67" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg68" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip35">
+            <path d="M0,0L0,16.9L35.7,36L35.7,19.3L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg69" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg70" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip36">
+            <path d="M15.2,7.9L15.2,27.6L0,19.3L0,0L15.2,7.9z"/>
+        </clipPath>
+        <linearGradient id="lg71" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg72" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <clipPath id="clip37">
+            <path d="M0,0L0,19.3L28.7,35.1L28.5,14.2L0,0z"/>
+        </clipPath>
+        <linearGradient id="lg73" y1="0%" x1="0%" x2="100%" y2="0%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+        <linearGradient id="lg74" y1="0%" x1="0%" x2="0%" y2="100%">
+            <stop offset="0" stop-color="#ff7979"/>
+            <stop offset="0.88" stop-color="#ff7979"/>
+            <stop offset="1" stop-color="#f35555"/>
+        </linearGradient>
+    </defs>
+    <g transform="translate(2.03,2)">
+        <g transform="translate(-0,-0)">
+            <g id="shape1" transform="translate(0.6,0)">
+                <g clip-path="url(#clip1)">
+                    <path stroke-width="2" d="M235.5,0L235.5,119.3L0,0z" stroke="url(#lg1)" fill="url(#lg1)"/>
+                </g>
+                <g clip-path="url(#clip1)">
+                    <path stroke-width="2" d="M235.5,119.3L0,119.3L0,0z" stroke="url(#lg2)" fill="url(#lg2)"/>
+                </g>
+                <path stroke-width="2" d="M0,63.7L1.6,59.3L141.2,0L235.5,24.5L92.2,119.3L0,63.7z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape2" transform="translate(50.52,24.5)">
+                <g clip-path="url(#clip2)">
+                    <path stroke-width="2" d="M186.1,2.9L186.1,289.5L0,2.9z" stroke="url(#lg3)" fill="url(#lg3)"/>
+                </g>
+                <g clip-path="url(#clip2)">
+                    <path stroke-width="2" d="M186.1,289.5L0,289.5L0,2.9z" stroke="url(#lg4)" fill="url(#lg4)"/>
+                </g>
+                <path stroke-width="2" d="M37,289.5L186.1,207.7L186.1,2.9L39.1,70.1L0,189.3L37,289.5z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape3" transform="translate(-0.03,59.35)">
+                <g clip-path="url(#clip3)">
+                    <path stroke-width="2" d="M89.7,0L89.7,254.6L0,0z" stroke="url(#lg5)" fill="url(#lg5)"/>
+                </g>
+                <g clip-path="url(#clip3)">
+                    <path stroke-width="2" d="M89.7,254.6L0,254.6L0,0z" stroke="url(#lg6)" fill="url(#lg6)"/>
+                </g>
+                <path stroke-width="2" d="M3,0L86.6,33.3C88.5,33.8,89.4,35.5,89.7,36.4L89.7,251.9C89.7,253.6,88.2,254.6,86.6,254.6L3.1,213.3C.7,212,.3,211.4,0,210.2L0,2.9C0,1.2,1.3,0,3,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape4" transform="translate(80.53,22.47)">
+                <g clip-path="url(#clip4)">
+                    <path stroke-width="2" d="M156.1,0L156.1,84L0,0z" stroke="url(#lg7)" fill="url(#lg7)"/>
+                </g>
+                <g clip-path="url(#clip4)">
+                    <path stroke-width="2" d="M156.1,84L0,84L0,0z" stroke="url(#lg8)" fill="url(#lg8)"/>
+                </g>
+                <path stroke-width="2" d="M0,68.5C6.3,71.1,7.1,71,11.7,75.1C14.3,77.3,15.5,84,15.5,84L155.8,6.1C155.8,6.1,156.6,3.1,155.4,2.1C154.4,1.2,145.6,0,145.6,0L0,68.5z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape5" transform="translate(79.72,90.31)">
+                <g clip-path="url(#clip5)">
+                    <path stroke-width="2" d="M16.3,0L16.3,223.8L-0,0z" stroke="url(#lg9)" fill="url(#lg9)"/>
+                </g>
+                <g clip-path="url(#clip5)">
+                    <path stroke-width="2" d="M16.3,223.8L-0,223.8L-0,0z" stroke="url(#lg10)" fill="url(#lg10)"/>
+                </g>
+                <path stroke-width="2" d="M-0,0C3.9,0,15.6,5.5,16.2,15.1C16.4,18.4,16.2,218.2,16.2,218.2C16.2,218.2,8.3,224.6,7.4,223.8C6.4,222.7,.1,220.5,.1,220.5L-0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape6" transform="translate(0.35,60.95)">
+                <g clip-path="url(#clip6)">
+                    <path stroke-width="2" d="M53.4,-0L53.4,223.1L-0,-0z" stroke="url(#lg11)" fill="url(#lg11)"/>
+                </g>
+                <g clip-path="url(#clip6)">
+                    <path stroke-width="2" d="M53.4,223.1L-0,223.1L-0,-0z" stroke="url(#lg12)" fill="url(#lg12)"/>
+                </g>
+                <path stroke-width="2" d="M53.4,18.3L26.7,223.1L.1,211.7L.1,.8C.1,.8,-0.8,-0.8,3.1,.4L53.4,18.3z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g transform="translate(0.2,86.37)">
+                <g id="shape7" transform="translate(0.32,-0)">
+                    <g clip-path="url(#clip7)">
+                        <path stroke-width="2" d="M48.9,0L48.9,27.3L0,0z" stroke="url(#lg13)" fill="url(#lg13)"/>
+                    </g>
+                    <g clip-path="url(#clip7)">
+                        <path stroke-width="2" d="M48.9,27.3L0,27.3L0,0z" stroke="url(#lg14)" fill="url(#lg14)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L0,4.5L48.9,27.3L48.9,22.5L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape8" transform="translate(0.32,30.78)">
+                    <g clip-path="url(#clip8)">
+                        <path stroke-width="2" d="M48.9,0L48.9,27.6L0,0z" stroke="url(#lg15)" fill="url(#lg15)"/>
+                    </g>
+                    <g clip-path="url(#clip8)">
+                        <path stroke-width="2" d="M48.9,27.6L0,27.6L0,0z" stroke="url(#lg16)" fill="url(#lg16)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L0,5L48.9,27.6L48.9,22L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape9" transform="translate(-0,61.81)">
+                    <g clip-path="url(#clip9)">
+                        <path stroke-width="2" d="M49.2,0L49.2,28.1L0,0z" stroke="url(#lg17)" fill="url(#lg17)"/>
+                    </g>
+                    <g clip-path="url(#clip9)">
+                        <path stroke-width="2" d="M49.2,28.1L0,28.1L0,0z" stroke="url(#lg18)" fill="url(#lg18)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L0,5.3L49.2,28.1L49.2,23.1L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape10" transform="translate(0.44,93.93)">
+                    <g clip-path="url(#clip10)">
+                        <path stroke-width="2" d="M48.5,0L48.5,27.6L0,0z" stroke="url(#lg19)" fill="url(#lg19)"/>
+                    </g>
+                    <g clip-path="url(#clip10)">
+                        <path stroke-width="2" d="M48.5,27.6L0,27.6L0,0z" stroke="url(#lg20)" fill="url(#lg20)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L0,5.3L48.5,27.6L48.5,22.6L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape11" transform="translate(45.27,21.14)">
+                    <g clip-path="url(#clip11)">
+                        <path stroke-width="2" d="M44,0L44,23.8L0,0z" stroke="url(#lg21)" fill="url(#lg21)"/>
+                    </g>
+                    <g clip-path="url(#clip11)">
+                        <path stroke-width="2" d="M44,23.8L0,23.8L0,0z" stroke="url(#lg22)" fill="url(#lg22)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L.1,4.5L44,23.8L44,19.5L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape12" transform="translate(45.27,51.19)">
+                    <g clip-path="url(#clip12)">
+                        <path stroke-width="2" d="M44.2,0L44.2,25.5L0,0z" stroke="url(#lg23)" fill="url(#lg23)"/>
+                    </g>
+                    <g clip-path="url(#clip12)">
+                        <path stroke-width="2" d="M44.2,25.5L0,25.5L0,0z" stroke="url(#lg24)" fill="url(#lg24)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L0,5.6L44.2,25.5L44.2,20.4L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape13" transform="translate(45.01,83.04)">
+                    <g clip-path="url(#clip13)">
+                        <path stroke-width="2" d="M44.5,0L44.5,25L0,0z" stroke="url(#lg25)" fill="url(#lg25)"/>
+                    </g>
+                    <g clip-path="url(#clip13)">
+                        <path stroke-width="2" d="M44.5,25L0,25L0,0z" stroke="url(#lg26)" fill="url(#lg26)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L44.5,20.2L44.5,25L0,5.6L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape14" transform="translate(45.01,114.37)">
+                    <g clip-path="url(#clip14)">
+                        <path stroke-width="2" d="M44.5,0L44.5,25.7L0,0z" stroke="url(#lg27)" fill="url(#lg27)"/>
+                    </g>
+                    <g clip-path="url(#clip14)">
+                        <path stroke-width="2" d="M44.5,25.7L0,25.7L0,0z" stroke="url(#lg28)" fill="url(#lg28)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L44.5,21L44.5,25.7L0,5.6L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape15" transform="translate(47.62,22.21)">
+                    <g clip-path="url(#clip15)">
+                        <path stroke-width="2" d="M36.9,0L36.9,21.6L0,0z" stroke="url(#lg29)" fill="url(#lg29)"/>
+                    </g>
+                    <g clip-path="url(#clip15)">
+                        <path stroke-width="2" d="M36.9,21.6L0,21.6L0,0z" stroke="url(#lg30)" fill="url(#lg30)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L33.2,14.8L36.9,21.6L.1,5L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape16" transform="translate(47.05,51.72)">
+                    <g clip-path="url(#clip16)">
+                        <path stroke-width="2" d="M36.8,0L36.8,22.9L0,0z" stroke="url(#lg31)" fill="url(#lg31)"/>
+                    </g>
+                    <g clip-path="url(#clip16)">
+                        <path stroke-width="2" d="M36.8,22.9L0,22.9L0,0z" stroke="url(#lg32)" fill="url(#lg32)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L32.9,15.3L36.8,22.9L.2,6.2L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape17" transform="translate(47.47,84)">
+                    <g clip-path="url(#clip17)">
+                        <path stroke-width="2" d="M36.9,0L36.9,22.3L0,0z" stroke="url(#lg33)" fill="url(#lg33)"/>
+                    </g>
+                    <g clip-path="url(#clip17)">
+                        <path stroke-width="2" d="M36.9,22.3L0,22.3L0,0z" stroke="url(#lg34)" fill="url(#lg34)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L33.2,14.9L36.9,22.3L.1,5.7L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape18" transform="translate(47.47,115.81)">
+                    <g clip-path="url(#clip18)">
+                        <path stroke-width="2" d="M36.9,0L36.9,21.6L0,0z" stroke="url(#lg35)" fill="url(#lg35)"/>
+                    </g>
+                    <g clip-path="url(#clip18)">
+                        <path stroke-width="2" d="M36.9,21.6L0,21.6L0,0z" stroke="url(#lg36)" fill="url(#lg36)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L33.2,14.8L36.9,21.6L.1,5L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape19" transform="translate(47.47,115.81)">
+                    <g clip-path="url(#clip19)">
+                        <path stroke-width="2" d="M38.3,0L38.3,22.6L0,0z" stroke="url(#lg37)" fill="url(#lg37)"/>
+                    </g>
+                    <g clip-path="url(#clip19)">
+                        <path stroke-width="2" d="M38.3,22.6L0,22.6L0,0z" stroke="url(#lg38)" fill="url(#lg38)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape20" transform="translate(48.09,83.87)">
+                    <g clip-path="url(#clip20)">
+                        <path stroke-width="2" d="M38.3,0L38.3,22.6L0,0z" stroke="url(#lg39)" fill="url(#lg39)"/>
+                    </g>
+                    <g clip-path="url(#clip20)">
+                        <path stroke-width="2" d="M38.3,22.6L0,22.6L0,0z" stroke="url(#lg40)" fill="url(#lg40)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape21" transform="translate(48.23,52.65)">
+                    <g clip-path="url(#clip21)">
+                        <path stroke-width="2" d="M38.3,0L38.3,22.6L0,0z" stroke="url(#lg41)" fill="url(#lg41)"/>
+                    </g>
+                    <g clip-path="url(#clip21)">
+                        <path stroke-width="2" d="M38.3,22.6L0,22.6L0,0z" stroke="url(#lg42)" fill="url(#lg42)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+                <g id="shape22" transform="translate(48.23,21.76)">
+                    <g clip-path="url(#clip22)">
+                        <path stroke-width="2" d="M38.3,0L38.3,22.6L0,0z" stroke="url(#lg43)" fill="url(#lg43)"/>
+                    </g>
+                    <g clip-path="url(#clip22)">
+                        <path stroke-width="2" d="M38.3,22.6L0,22.6L0,0z" stroke="url(#lg44)" fill="url(#lg44)"/>
+                    </g>
+                    <path stroke-width="2" d="M0,0L38.3,17.9L38.3,22.6L5.2,7.9L0,0z" stroke="#ffffff" fill="none"/>
+                </g>
+            </g>
+        </g>
+        <g transform="translate(144.36,188.47)">
+            <g id="shape23" transform="translate(0,-0)">
+                <g clip-path="url(#clip23)">
+                    <path stroke-width="2" d="M113.1,0L113.1,55.9L0,0z" stroke="url(#lg45)" fill="url(#lg45)"/>
+                </g>
+                <g clip-path="url(#clip23)">
+                    <path stroke-width="2" d="M113.1,55.9L0,55.9L0,0z" stroke="url(#lg46)" fill="url(#lg46)"/>
+                </g>
+                <path stroke-width="2" d="M0,11.9L22.6,0L113.1,41.7L89.2,55.9L0,11.9z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape24" transform="translate(89.2,41.67)">
+                <g clip-path="url(#clip24)">
+                    <path stroke-width="2" d="M23.9,0L23.9,103.1L0,0z" stroke="url(#lg47)" fill="url(#lg47)"/>
+                </g>
+                <g clip-path="url(#clip24)">
+                    <path stroke-width="2" d="M23.9,103.1L0,103.1L0,0z" stroke="url(#lg48)" fill="url(#lg48)"/>
+                </g>
+                <path stroke-width="2" d="M0,14.3L0,103.1L23.9,89.9L23.9,0L0,14.3z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape25" transform="translate(0,11.86)">
+                <g clip-path="url(#clip25)">
+                    <path stroke-width="2" d="M89.2,0L89.2,132.9L0,0z" stroke="url(#lg49)" fill="url(#lg49)"/>
+                </g>
+                <g clip-path="url(#clip25)">
+                    <path stroke-width="2" d="M89.2,132.9L0,132.9L0,0z" stroke="url(#lg50)" fill="url(#lg50)"/>
+                </g>
+                <path stroke-width="2" d="M89.2,44.1L0,0L0,84.9L89.2,132.9L89.2,44.1z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape26" transform="translate(0,11.85)">
+                <g clip-path="url(#clip26)">
+                    <path stroke-width="2" d="M89.2,0L89.2,61.4L0,0z" stroke="url(#lg51)" fill="url(#lg51)"/>
+                </g>
+                <g clip-path="url(#clip26)">
+                    <path stroke-width="2" d="M89.2,61.4L0,61.4L0,0z" stroke="url(#lg52)" fill="url(#lg52)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,14.9L89,61.4L89.2,44.1L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape27" transform="translate(0.01,11.85)">
+                <g clip-path="url(#clip27)">
+                    <path stroke-width="2" d="M26.1,0L26.1,28.5L0,0z" stroke="url(#lg53)" fill="url(#lg53)"/>
+                </g>
+                <g clip-path="url(#clip27)">
+                    <path stroke-width="2" d="M26.1,28.5L0,28.5L0,0z" stroke="url(#lg54)" fill="url(#lg54)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,14.9L26.1,28.5L26.1,12.9L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape28" transform="translate(71.79,47.55)">
+                <g clip-path="url(#clip28)">
+                    <path stroke-width="2" d="M17.4,0L17.4,25.7L0,0z" stroke="url(#lg55)" fill="url(#lg55)"/>
+                </g>
+                <g clip-path="url(#clip28)">
+                    <path stroke-width="2" d="M17.4,25.7L0,25.7L0,0z" stroke="url(#lg56)" fill="url(#lg56)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,16.7L17.2,25.7L17.4,7.9L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape29" transform="translate(0,41.58)">
+                <g clip-path="url(#clip29)">
+                    <path stroke-width="2" d="M89.2,0L89.2,66.1L0,0z" stroke="url(#lg57)" fill="url(#lg57)"/>
+                </g>
+                <g clip-path="url(#clip29)">
+                    <path stroke-width="2" d="M89.2,66.1L0,66.1L0,0z" stroke="url(#lg58)" fill="url(#lg58)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,18.5L89,66.1L89.2,49L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape30" transform="translate(0,60.05)">
+                <g clip-path="url(#clip30)">
+                    <path stroke-width="2" d="M89,0L89,63.8L0,0z" stroke="url(#lg59)" fill="url(#lg59)"/>
+                </g>
+                <g clip-path="url(#clip30)">
+                    <path stroke-width="2" d="M89,63.8L0,63.8L0,0z" stroke="url(#lg60)" fill="url(#lg60)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,17.3L89,63.8L89,47.6L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape31" transform="translate(0,26.72)">
+                <g clip-path="url(#clip31)">
+                    <path stroke-width="2" d="M89.2,0L89.2,63.8L0,0z" stroke="url(#lg61)" fill="url(#lg61)"/>
+                </g>
+                <g clip-path="url(#clip31)">
+                    <path stroke-width="2" d="M89.2,63.8L0,63.8L0,0z" stroke="url(#lg62)" fill="url(#lg62)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,14.9L89.2,63.8L89,46.5L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape32" transform="translate(13.05,33.73)">
+                <g clip-path="url(#clip32)">
+                    <path stroke-width="2" d="M47.4,0L47.4,41L0,0z" stroke="url(#lg63)" fill="url(#lg63)"/>
+                </g>
+                <g clip-path="url(#clip32)">
+                    <path stroke-width="2" d="M47.4,41L0,41L0,0z" stroke="url(#lg64)" fill="url(#lg64)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,14.9L47.4,41L47.4,24.8L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape33" transform="translate(0,41.58)">
+                <g clip-path="url(#clip33)">
+                    <path stroke-width="2" d="M17.2,0L17.2,27.7L0,0z" stroke="url(#lg65)" fill="url(#lg65)"/>
+                </g>
+                <g clip-path="url(#clip33)">
+                    <path stroke-width="2" d="M17.2,27.7L0,27.7L0,0z" stroke="url(#lg66)" fill="url(#lg66)"/>
+                </g>
+                <path stroke-width="2" d="M17.2,9.5L17.2,27.7L0,18.5L0,0L17.2,9.5z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape34" transform="translate(41.99,64.44)">
+                <g clip-path="url(#clip34)">
+                    <path stroke-width="2" d="M47.2,0L47.2,43.2L0,0z" stroke="url(#lg67)" fill="url(#lg67)"/>
+                </g>
+                <g clip-path="url(#clip34)">
+                    <path stroke-width="2" d="M47.2,43.2L0,43.2L0,0z" stroke="url(#lg68)" fill="url(#lg68)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,18.2L47,43.2L47.2,26.1L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape35" transform="translate(26.33,74.09)">
+                <g clip-path="url(#clip35)">
+                    <path stroke-width="2" d="M35.7,0L35.7,36L0,0z" stroke="url(#lg69)" fill="url(#lg69)"/>
+                </g>
+                <g clip-path="url(#clip35)">
+                    <path stroke-width="2" d="M35.7,36L0,36L0,0z" stroke="url(#lg70)" fill="url(#lg70)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,16.9L35.7,36L35.7,19.3L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape36" transform="translate(0,77.39)">
+                <g clip-path="url(#clip36)">
+                    <path stroke-width="2" d="M15.2,0L15.2,27.6L0,0z" stroke="url(#lg71)" fill="url(#lg71)"/>
+                </g>
+                <g clip-path="url(#clip36)">
+                    <path stroke-width="2" d="M15.2,27.6L0,27.6L0,0z" stroke="url(#lg72)" fill="url(#lg72)"/>
+                </g>
+                <path stroke-width="2" d="M15.2,7.9L15.2,27.6L0,19.3L0,0L15.2,7.9z" stroke="#ffffff" fill="none"/>
+            </g>
+            <g id="shape37" transform="translate(60.48,109.66)">
+                <g clip-path="url(#clip37)">
+                    <path stroke-width="2" d="M28.7,0L28.7,35.1L0,0z" stroke="url(#lg73)" fill="url(#lg73)"/>
+                </g>
+                <g clip-path="url(#clip37)">
+                    <path stroke-width="2" d="M28.7,35.1L0,35.1L0,0z" stroke="url(#lg74)" fill="url(#lg74)"/>
+                </g>
+                <path stroke-width="2" d="M0,0L0,19.3L28.7,35.1L28.5,14.2L0,0z" stroke="#ffffff" fill="none"/>
+            </g>
+        </g>
+    </g>
+</svg>

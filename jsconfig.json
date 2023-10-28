@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "noUnusedLocals": true
+  },
+  "vueCompilerOptions": {
+    "experimentalCompatMode": 2,
+    "experimentalDisableTemplateSupport": false
+  },
+  "exclude": ["node_modules", "dist"]
+}
